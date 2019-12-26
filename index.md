@@ -16,7 +16,7 @@ xiaoxiaohu "at" whu.edu.cn <br>
 xhuah "at" connect.ust.hk
 
 
-## Research
+# Research
 
 ### Publication
 
@@ -43,6 +43,6 @@ accepted at *Journal of Industrial Economics.*
 **“Cognition and Product Customization”**
 (with Zhengqing Gui)
 
-## Teaching
+# Teaching
 
 - [Advanced Microeconomics, Fall 2019](/teaching/micro2019) (Graduate Course)
