@@ -43,4 +43,4 @@ accepted at *Journal of Industrial Economics.*
 
 ## Teaching
 
-- [Advanced Microeconomics, Fall 2019](/teaching/micro2019/) (Graduate Course)
+- [Advanced Microeconomics, Fall 2019](/teaching/micro2019) (Graduate Course)
