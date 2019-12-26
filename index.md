@@ -20,7 +20,9 @@ Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%
 
 ### Publication
 
-1. [“Using Customer Service to Build Clients' Trust”](https://www.dropbox.com/s/3b3zofr8ujn4544/Using%20Customer%20Service%20to%20Build%20Clients%27%20Trust.pdf?dl=0) (with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng), accepted at *Journal of Industrial Economics.*
+1. [“Using Customer Service to Build Clients' Trust”](https://www.dropbox.com/s/3b3zofr8ujn4544/Using%20Customer%20Service%20to%20Build%20Clients%27%20Trust.pdf?dl=0) 
+(with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng), 
+accepted at *Journal of Industrial Economics.*
 
 
 ### Working papers
@@ -28,6 +30,7 @@ Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%
 - “Verifiability and Fraud in a Dynamic Credence Goods Market” (with Jialiang Lin)  
 
 - “Agent Information Acquisition and Utilization in Relational Contracts” (with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov)
+
   - Previously titled “Inducing Stubbornness from Expert”
 
 - “Voluntarily Separable Games with In-relationship Search” (with Yuk-fai Fong)
@@ -40,4 +43,4 @@ Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%
 
 ## Teaching
 
-Advanced Microeconomics, Fall 2019, (Graduate Course)
+- [Advanced Microeconomics, Fall 2019](/teaching/micro2019/) (Graduate Course)
