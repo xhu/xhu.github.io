@@ -26,7 +26,8 @@ Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%
 
 - “Verifiability and Fraud in a Dynamic Credence Goods Market” (with Jialiang Lin)  
 
-- “Agent Information Acquisition and Utilization in Relational Contracts” (with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov) [Previously titled “Inducing Stubbornness from Expert”]
+- “Agent Information Acquisition and Utilization in Relational Contracts” (with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov)
+  - Previously titled “Inducing Stubbornness from Expert”
 
 - “Voluntarily Separable Games with In-relationship Search” (with Yuk-fai Fong)
 
