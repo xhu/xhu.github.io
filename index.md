@@ -9,11 +9,11 @@ My research interest is Applied Microeconomic Theory with a focus on Industrial 
 
 Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%202019%29.pdf)
 
-> **Postal Address**  <br> Room C151, Economics and Management School,
-> Wuhan University, Hubei, China <br>
-> **Email** <br>
-> xiaoxiaohu AT whu.edu.cn <br>
-> xhuah AT connect.ust.hk
+**Postal Address**  <br> Room C151, Economics and Management School,
+Wuhan University, Hubei, China <br>
+**Email** <br>
+xiaoxiaohu "at" whu.edu.cn <br>
+xhuah "at" connect.ust.hk
 
 
 ## Research
