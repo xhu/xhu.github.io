@@ -20,9 +20,9 @@ xhuah "at" connect.ust.hk
 
 ### Publication
 
-1. [“Using Customer Service to Build Clients' Trust”](https://www.dropbox.com/s/3b3zofr8ujn4544/Using%20Customer%20Service%20to%20Build%20Clients%27%20Trust.pdf?dl=0) 
+1. **“Using Customer Service to Build Clients' Trust”** 
 (with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng), 
-accepted at *Journal of Industrial Economics.*
+accepted at *Journal of Industrial Economics.* [Working paper version](https://www.dropbox.com/s/3b3zofr8ujn4544/Using%20Customer%20Service%20to%20Build%20Clients%27%20Trust.pdf?dl=0)
 
 
 ### Working papers
