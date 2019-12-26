@@ -37,3 +37,7 @@ Here is [my CV.](https://www.dropbox.com/s/cqphgzlhfvevku5/CV_Xiaoxiao%20%28Sep%
 - “Label the Divorced: A Repeated-Game Analysis on (Re)Marriage Market with Community Enforcement” (with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang)
 
 - “Cognition and Product Customization” (with Zhengqing Gui)
+
+## Teaching
+
+Advanced Microeconomics, Fall 2019, (Graduate Course)
