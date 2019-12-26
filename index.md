@@ -27,19 +27,21 @@ accepted at *Journal of Industrial Economics.*
 
 ### Working papers
 
-- “Verifiability and Fraud in a Dynamic Credence Goods Market” (with Jialiang Lin)  
+**“Verifiability and Fraud in a Dynamic Credence Goods Market”** (with Jialiang Lin)  
 
-- “Agent Information Acquisition and Utilization in Relational Contracts” (with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov)
+**“Agent Information Acquisition and Utilization in Relational Contracts”** (with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov)
 
-  - Previously titled “Inducing Stubbornness from Expert”
+- Previously titled “Inducing Stubbornness from Expert”
 
-- “Voluntarily Separable Games with In-relationship Search” (with Yuk-fai Fong)
+**“Voluntarily Separable Games with In-relationship Search”** (with Yuk-fai Fong)
 
 ### Work in progress
 
-- “Label the Divorced: A Repeated-Game Analysis on (Re)Marriage Market with Community Enforcement” (with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang)
+**“Label the Divorced: A Repeated-Game Analysis on (Re)Marriage Market with Community Enforcement”** 
+(with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang)
 
-- “Cognition and Product Customization” (with Zhengqing Gui)
+**“Cognition and Product Customization”**
+(with Zhengqing Gui)
 
 ## Teaching
 
