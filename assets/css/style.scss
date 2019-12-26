@@ -1,0 +1,40 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  color: #111111; 
+}
+
+a {
+  color: #111111;
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+sup a {
+  border-bottom: none;
+}
+
+h2, h3, h4, h5, h6{
+  letter-spacing: 0px;
+}
+
+h1{
+  letter-spacing: 0.5px;
+}
+
+footer a {
+    color: #F2F2F2;
+    text-decoration: none;
+}
