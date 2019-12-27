@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-layout: default
+description: "Advanced Microeconomics, Fall 2019"
 ---
 
 ## Advanced Microeconomics
