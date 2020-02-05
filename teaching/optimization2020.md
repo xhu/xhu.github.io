@@ -11,7 +11,7 @@ Spring 2020, Wuhan University
 
 - 上课地点：1 区 3-302
 
-### [Syllabus]()
+### Syllabus [PDF]
 
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
 
