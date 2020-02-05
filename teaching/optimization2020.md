@@ -16,7 +16,7 @@ Spring 2020, Wuhan University
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
 
 ### Chapter 1
-- [Lecture Notes](/files/pdf/optimization_Introduction.pdf)
+- [Lecture Notes](/files/pdf/optimization_introduction.pdf)
 
 ### Chapter 2
 - [Lecture Notes](/files/pdf/optimization_Lagrange.pdf)
