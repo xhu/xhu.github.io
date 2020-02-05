@@ -11,7 +11,7 @@ description: "Advanced Microeconomics, Fall 2019"
 
 - 上课地点：1 区枫-304
 
-### [Syllabus](sherryecon.github.io/pdf/micro_syllabus.pdf)
+### [Syllabus](http://sherryecon.github.io/pdf/micro_syllabus.pdf)
 
 - Textbook: Microeconomic Theory, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
 
@@ -30,19 +30,19 @@ description: "Advanced Microeconomics, Fall 2019"
 
 ### MWG Chapter 1
 
-- [Lecture Notes](sherryecon.github.io/pdf/mwgch1.pdf)
+- [Lecture Notes](http://sherryecon.github.io/pdf/mwgch1.pdf)
 
-- [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf)
+- [Slides](http://sherryecon.github.io/pdf/mwgch1_slides.pdf)
 
-- [Assignment 1](sherryecon.github.io/pdf/micro_hw1.pdf)
+- [Assignment 1](http://sherryecon.github.io/pdf/micro_hw1.pdf)
 
 ### MWG Chapter 2
 
-- [Lecture Notes](sherryecon.github.io/pdf/mwgch2.pdf)
+- [Lecture Notes](http://sherryecon.github.io/pdf/mwgch2.pdf)
 
-- [Slides](sherryecon.github.io/pdf/mwgch2_slides.pdf) 
+- [Slides](http://sherryecon.github.io/pdf/mwgch2_slides.pdf) 
 
-- [Assignment 2](sherryecon.github.io/pdf/micro_hw2.pdf)
+- [Assignment 2](http://sherryecon.github.io/pdf/micro_hw2.pdf)
 
 ### MWG Chapter 3
 
@@ -54,12 +54,12 @@ description: "Advanced Microeconomics, Fall 2019"
 [Math Review](https://sherryecon.github.io/sherryecon.github.io/pdf/MathReview_MaximizationProblem_slides.pdf), 
 [Part 2](https://sherryecon.github.io/sherryecon.github.io/pdf/mwgch3_slides_part2.pdf)] 
 
-- [Assignment 3](sherryecon.github.io/pdf/micro_hw3.pdf)
+- [Assignment 3](http://sherryecon.github.io/pdf/micro_hw3.pdf)
 
 ### MWG Chapter 5
 
-- [Lecture Notes](sherryecon.github.io/pdf/mwgch5.pdf)
+- [Lecture Notes](http://sherryecon.github.io/pdf/mwgch5.pdf)
 
-- [Slides](sherryecon.github.io/pdf/mwgch5_slides.pdf)
+- [Slides](http://sherryecon.github.io/pdf/mwgch5_slides.pdf)
 
-- [Assignment 4](sherryecon.github.io/pdf/micro_hw4.pdf)
+- [Assignment 4](http://sherryecon.github.io/pdf/micro_hw4.pdf)
