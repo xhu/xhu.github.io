@@ -19,7 +19,7 @@ Spring 2020, Wuhan University
 - [Lecture Notes](/files/pdf/optimization_Introduction.pdf)
 
 ### Chapter 2
-- [Lecture Notes]
+- [Lecture Notes](/files/pdf/optimization_Lagrange.pdf)
 
 ### Chapter 3
 - [Lecture Notes]
