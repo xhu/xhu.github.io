@@ -14,6 +14,9 @@ Spring 2020, Wuhan University
 ### Syllabus [PDF](/files/pdf/optimization_syllabus.pdf)
 
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
+- Important Dates:
+  - No class: April 6 (Ching Ming Festival) and May 4 (Labor Day)
+  - Midterm: April 20 (Tentative)
 
 ### Chapter 1
 - [Lecture Notes](/files/pdf/optimization_introduction.pdf)
