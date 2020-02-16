@@ -11,8 +11,9 @@ Spring 2020, Wuhan University
 
 - 上课地点：1 区 3-302
 
-### Syllabus [PDF](/files/pdf/optimization_syllabus.pdf)
+### Syllabus [PDF](/files/pdf/optimization_syllabus.pdf) 
 
+- [Video](https://pan.baidu.com/s/1ZNEwm4SJKDwavIVANvEIgQ)(提取码: `wsm2`, 3min)
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
 - Important Dates:
   - No class: April 6 (Ching Ming Festival) 
@@ -22,9 +23,11 @@ Spring 2020, Wuhan University
 ### Chapter 1
 - [Lecture Notes](/files/pdf/optimization_introduction.pdf)
 - [Slides](/files/pdf/optimization_introduction_slides.pdf)
+- Videos:
 
 ### Chapter 2
 - [Lecture Notes]
+
 ### Chapter 3
 - [Lecture Notes]
 
