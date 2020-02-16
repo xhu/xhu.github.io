@@ -15,10 +15,6 @@ description: "Dynamic Optimization, Spring 2020"
 
 - [Video](https://pan.baidu.com/s/1y66qHSuHZ9Vno2Wp99kUtw) (提取码: `yngy`, 3min)
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
-- Important Dates:
-  - No class: April 6 (Ching Ming Festival) 
-  - Midterm: April 20 (Tentative)
-  - May 4 (Labor day): the schedule may be subject to change, according to university announcement 
 
 ### Chapter 1
 
@@ -28,7 +24,7 @@ description: "Dynamic Optimization, Spring 2020"
     - [消费者选择模型](https://pan.baidu.com/s/1rdYG9hDrd-aRHDSGSsz44g) (提取码: `7uji`, 8min)
     - [无套利条件](https://pan.baidu.com/s/1odAItsJFiLe0M8IjYJPc3A) (提取码: `e1ns`, 7min)
     - [相切条件、边界解、收入的边际效用](https://pan.baidu.com/s/1a38r2ZLp79ZfkzeS2YgqDA) (提取码: `89s8`, 6min)
-    - [多个商品及多个约束条件、非束缚拘束](https://pan.baidu.com/s/1pmZNsV4PtcvdvU67FXIyPA) (提取码: `ky2v`, 4min)
+    - [多商品及多约束条件、非紧约束](https://pan.baidu.com/s/1pmZNsV4PtcvdvU67FXIyPA) (提取码: `ky2v`, 4min)
 
 ### Chapter 2
 - [Lecture Notes]
