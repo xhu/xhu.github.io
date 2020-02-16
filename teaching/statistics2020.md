@@ -15,7 +15,7 @@ description: "Statistics and Prediction, Spring 2020"
 
 - Textbook: Book: Spiegler, Ran. Bounded Rationality and Industrial Organization. Oxford University Press, 2011. Part II.
 
-### Sampling-Based Reasoning I: Price Competition and Product Differentiation
+### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
 
 
 
