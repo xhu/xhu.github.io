@@ -9,22 +9,22 @@ description: "Dynamic Optimization, Spring 2020"
 
 - 授课方式：网络教学
 
-- 除课件 (lecture notes) 和幻灯片 (slides) 外，教师还会提供视频资料（百度云上传）。
+- 除课件 (lecture notes) 和幻灯片 (slides) 外，教师还会提供视频资料。
 
 ### 课程简介 [PDF](/files/pdf/optimization_syllabus.pdf) 
 
-- [Video](https://pan.baidu.com/s/1y66qHSuHZ9Vno2Wp99kUtw) (提取码: `yngy`, 3min)
+- [Video](https://www.bilibili.com/video/av89586263/) (3min)
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
 
 ### Chapter 1
 
 - [Lecture Notes](/files/pdf/optimization_introduction.pdf)
 - [Slides](/files/pdf/optimization_introduction_slides.pdf)
-- Videos:
-    - [消费者选择模型](https://pan.baidu.com/s/1rdYG9hDrd-aRHDSGSsz44g) (提取码: `7uji`, 8min)
-    - [无套利条件](https://pan.baidu.com/s/1odAItsJFiLe0M8IjYJPc3A) (提取码: `e1ns`, 7min)
-    - [相切条件、边界解、收入的边际效用](https://pan.baidu.com/s/1a38r2ZLp79ZfkzeS2YgqDA) (提取码: `89s8`, 6min)
-    - [多商品及多约束条件、非紧约束](https://pan.baidu.com/s/1pmZNsV4PtcvdvU67FXIyPA) (提取码: `ky2v`, 4min)
+- Videos ([合集](https://www.bilibili.com/video/av89620693/)):
+    - [消费者选择模型](https://www.bilibili.com/video/av89620693?p=1) (8min)
+    - [无套利条件](bilibili.com/video/av89620693?p=2) (7min)
+    - [相切条件、边界解、收入的边际效用](https://www.bilibili.com/video/av89620693?p=3) (6min)
+    - [多商品及多约束条件、非紧约束](https://www.bilibili.com/video/av89620693?p=4) (4min)
 
 ### Chapter 2
 - [Lecture Notes]
