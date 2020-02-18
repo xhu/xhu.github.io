@@ -23,7 +23,7 @@ description: "Statistics and Prediction, Spring 2020"
   - 基本模型及均衡求解
   - “庸医”市场、福利与制度分析
 - 附录：Bertrand Competition 
-  - [Lecture Notes](/files/pdf/Bertrand_Competition.pdf)
+  - [Notes](/files/pdf/Bertrand_Competition.pdf)
   - [Video](https://pan.baidu.com/s/1F_TC18dzMiJeT7DShNsLkw) (提取码: `f7tq`, 10min)
 
 
