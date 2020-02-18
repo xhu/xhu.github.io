@@ -11,11 +11,17 @@ description: "Statistics and Prediction, Spring 2020"
 
 - 除幻灯片 (slides) 外，教师还会提供视频资料（百度云上传）。
 
-### Syllabus [PDF]
+### Syllabus [PDF](/files/pdf/statistics_syllabus.pdf)
 
 - Textbook: Book: Spiegler, Ran. Bounded Rationality and Industrial Organization. Oxford University Press, 2011. Part II.
 
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
+
+- [Slides](/files/pdf/Sampling-Based_Reasoning_I.pdf)
+- Videos:
+  - 
+  - 
+- 附录：Bertrand Competition [Lecture Notes](/files/pdf/Bertrand_Competition.pdf) [Video]
 
 
 
