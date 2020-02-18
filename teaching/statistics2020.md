@@ -3,7 +3,7 @@ title: "Teaching"
 description: "Statistics and Prediction, Spring 2020"
 ---
 
-**教学期间，本课程网站会持续更新。** 有问题可以通过 [Github issue](https://github.com/xhu/xhu.github.io/issues) （推荐） 或 qq 群（不推荐）询问。
+**教学期间，本课程网站会持续更新。** 有问题可以通过 [Github issue](https://github.com/xhu/statistics2020/issues) （推荐） 或 qq 群（不推荐）询问。
 
 - 上课时间：Wednesday 8:50 - 11:25
 
