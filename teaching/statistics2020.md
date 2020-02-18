@@ -19,9 +19,10 @@ description: "Statistics and Prediction, Spring 2020"
 
 - [Slides](/files/pdf/Sampling-Based_Reasoning_I.pdf)
 - Videos:
-  - 
-  - 
-- 附录：Bertrand Competition [Lecture Notes](/files/pdf/Bertrand_Competition.pdf) [Video]
+  - [简介](https://pan.baidu.com/s/1VyVfKus5WvC6_J6L0EM2OQ) (提取码: `5bg6`, 8min)
+  - 基本模型及均衡求解
+  - “庸医”市场、福利与制度分析
+- 附录：Bertrand Competition [Lecture Notes](/files/pdf/Bertrand_Competition.pdf) [Video](https://pan.baidu.com/s/1F_TC18dzMiJeT7DShNsLkw) (提取码: `f7tq`, 10min)
 
 
 
