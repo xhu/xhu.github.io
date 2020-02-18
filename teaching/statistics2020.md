@@ -18,13 +18,13 @@ description: "Statistics and Prediction, Spring 2020"
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
 
 - [Slides](/files/pdf/Sampling-Based_Reasoning_I.pdf)
+
 - Videos:
   - [简介](https://pan.baidu.com/s/1VyVfKus5WvC6_J6L0EM2OQ) (提取码: `5bg6`, 8min)
-  - 基本模型及均衡求解
-  - “庸医”市场、福利与制度分析
+  - [基本模型及均衡求解](https://pan.baidu.com/s/1lKDAVDJitCon17IQdQ5Rkw) (提取码: `y3vu`, 8min)
+  - [“庸医”市场、福利与政策分析](https://pan.baidu.com/s/1SCLfZc4ihLynNgBmFbOEeg) (提取码: `8biq`, 4min)
+
 - 附录：Bertrand Competition 
   - [Notes](/files/pdf/Bertrand_Competition.pdf)
   - [Video](https://pan.baidu.com/s/1F_TC18dzMiJeT7DShNsLkw) (提取码: `f7tq`, 10min)
-
-
 
