@@ -27,7 +27,8 @@ description: "Dynamic Optimization, Spring 2020"
     - [多商品及多约束条件、非紧约束](https://pan.baidu.com/s/1pmZNsV4PtcvdvU67FXIyPA) (提取码: `ky2v`, 4min)
 
 ### Chapter 2
-- [Lecture Notes]
+- [Lecture Notes](/files/pdf/optimization_Lagrange.pdf)
+- [Slides](/files/pdf/optimization_Lagrange_slides.pdf)
 
 ### Chapter 3
 - [Lecture Notes]
