@@ -32,7 +32,7 @@ description: "Dynamic Optimization, Spring 2020"
 - Videos:
     - [最大化问题](https://pan.baidu.com/s/1wGVFu8Qs_cy9Gp7JF7N2UA) (提取码: `i6nx`, 2min)
     - [无套利条件](https://pan.baidu.com/s/1lG2nd22EbiTEuk5zUocFUw) (提取码: `d6pi`, 7min)
-    - [约束规范性条件、相切条件、必要vs.充分条件](https://pan.baidu.com/s/1wGVFu8Qs_cy9Gp7JF7N2UA) (提取码: `i6nx`, 11min)
+    - [约束规范性条件、相切条件、必要vs.充分条件](https://pan.baidu.com/s/1Q1jL4lIDAcLN92ANl5Kg6Q) (提取码: `m33c`, 11min)
     - [拉格朗日乘数法](https://pan.baidu.com/s/1AJnWuVXGMB6XVt7B7kyDoA) (提取码: `tnpw`, 4min)
     - [两个例子](https://pan.baidu.com/s/1bBzEa8jB_K7zmvIoKD8PNA) (提取码: `e628`, 6min)
 
