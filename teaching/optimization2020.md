@@ -27,7 +27,14 @@ description: "Dynamic Optimization, Spring 2020"
     - [多商品及多约束条件、非紧约束](https://pan.baidu.com/s/1pmZNsV4PtcvdvU67FXIyPA) (提取码: `ky2v`, 4min)
 
 ### Chapter 2
-
+- [Lecture Notes](/files/pdf/optimization_Lagrange.pdf)
+- [Slides](/files/pdf/optimization_Lagrange_slides.pdf)
+- Videos:
+    - [最大化问题](https://pan.baidu.com/s/1wGVFu8Qs_cy9Gp7JF7N2UA) (提取码: `i6nx`, 2min)
+    - [无套利条件](https://pan.baidu.com/s/1lG2nd22EbiTEuk5zUocFUw) (提取码: `d6pi`, 7min)
+    - [约束规范性条件、相切条件、必要vs.充分条件](https://pan.baidu.com/s/1wGVFu8Qs_cy9Gp7JF7N2UA) (提取码: `i6nx`, 11min)
+    - [拉格朗日乘数法](https://pan.baidu.com/s/1AJnWuVXGMB6XVt7B7kyDoA) (提取码: `tnpw`, 4min)
+    - [两个例子](https://pan.baidu.com/s/1bBzEa8jB_K7zmvIoKD8PNA) (提取码: `e628`, 6min)
 
 ### Chapter 3
 - [Lecture Notes]
