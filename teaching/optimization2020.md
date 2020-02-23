@@ -29,6 +29,7 @@ description: "Dynamic Optimization, Spring 2020"
 ### Chapter 2
 - [Lecture Notes](/files/pdf/optimization_Lagrange.pdf)
 - [Slides](/files/pdf/optimization_Lagrange_slides.pdf)
+- [Exercises](/files/pdf/optimization_Lagrange_exercises.pdf)
 - Videos:
     - [最大化问题](https://pan.baidu.com/s/1wGVFu8Qs_cy9Gp7JF7N2UA) (提取码: `i6nx`, 2min)
     - [无套利条件](https://pan.baidu.com/s/1lG2nd22EbiTEuk5zUocFUw) (提取码: `d6pi`, 7min)
