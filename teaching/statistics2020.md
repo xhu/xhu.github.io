@@ -43,7 +43,7 @@ description: "Statistics and Prediction, Spring 2020"
       
       * [均衡](https://pan.baidu.com/s/1wJpKJy3n7-jHq9Mnk5zWFQ) (提取码: `vmfh`, 6min)
       
-  - [市场机制可行性、总结](https://pan.baidu.com/s/13jDQAUNtffGdoEr1barUeQ) (提取码: `cd7q`, 8min)  
+  - [市场机制可行性、总结](https://pan.baidu.com/s/13jDQAUNtffGdoEr1barUeQ) (提取码: `cd7q`, 7min)  
 
 - 附录：Bertrand Competition 
 
