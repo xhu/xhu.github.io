@@ -18,6 +18,7 @@ description: "Statistics and Prediction, Spring 2020"
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
 
 - [Slides](/files/pdf/Sampling-Based_Reasoning_I.pdf)
+
 - [Assignment 1](/files/pdf/statistics_hw1.pdf)
 
 - Videos:
