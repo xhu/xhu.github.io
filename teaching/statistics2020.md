@@ -25,7 +25,7 @@ description: "Statistics and Prediction, Spring 2020"
   - [简介](https://pan.baidu.com/s/1VyVfKus5WvC6_J6L0EM2OQ) (提取码: `5bg6`, 8min)
   - [基本模型及均衡求解](https://pan.baidu.com/s/1lKDAVDJitCon17IQdQ5Rkw) (提取码: `y3vu`, 8min)
   - [“庸医”市场、福利与政策分析](https://pan.baidu.com/s/1SCLfZc4ihLynNgBmFbOEeg) (提取码: `8biq`, 4min)
-  - 伪产品差异化 [
+  - 伪产品差异化 
       * [模型](https://pan.baidu.com/s/141Q6Enuqp7vD3R-qs29_SA) (提取码: `d9yy`, 5min), 
       * [纯策略均衡](https://pan.baidu.com/s/1Pc86YQEi8f9mVeyoW-WAiw) (提取码: `qimf`, 5min), 
       * [混合策略均衡](https://pan.baidu.com/s/1jAsTZPj2Qx7p3xfKcsZEcg) (提取码: `9fg2`, 8min)
