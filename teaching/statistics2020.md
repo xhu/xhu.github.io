@@ -28,9 +28,7 @@ description: "Statistics and Prediction, Spring 2020"
   - 伪产品差异化 [模型](https://pan.baidu.com/s/141Q6Enuqp7vD3R-qs29_SA) (提取码: `d9yy`, 5min), [纯策略均衡](https://pan.baidu.com/s/1Pc86YQEi8f9mVeyoW-WAiw) (提取码: `qimf`, 5min), [混合策略均衡](https://pan.baidu.com/s/1jAsTZPj2Qx7p3xfKcsZEcg) (提取码: `9fg2`, 8min)
   - 基于案例的推荐 [模型](https://pan.baidu.com/s/1ZdF7A7wjWhhXD02mghgbFg) (提取码: `qijw`, 5min), [均衡](https://pan.baidu.com/s/1wJpKJy3n7-jHq9Mnk5zWFQ) (提取码: `vmfh`, 6min)
   - [市场机制可行性、总结](https://pan.baidu.com/s/13jDQAUNtffGdoEr1barUeQ) (提取码: `cd7q`, 7.5min)  
-
 <p>&nbsp;</p>
-
 - 附录：Bertrand Competition 
   - [Notes](/files/pdf/Bertrand_Competition.pdf)
   - [Video](https://pan.baidu.com/s/1F_TC18dzMiJeT7DShNsLkw) (提取码: `f7tq`, 10min)
