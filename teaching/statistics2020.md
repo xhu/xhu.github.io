@@ -18,7 +18,9 @@ description: "Statistics and Prediction, Spring 2020"
 ### 作业说明
 
 - 请使用英文作答。
+
 - 邮件提交，附件要求 .pdf 格式。
+
 - 邮件标题格式为“作业编号-学号-姓名”，如：作业1-201901010101-张三，或 Assignment 1 - 201901010101 - Zhang, San
 
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
