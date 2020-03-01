@@ -38,7 +38,20 @@ description: "Dynamic Optimization, Spring 2020"
     - [两个例子](https://pan.baidu.com/s/1bBzEa8jB_K7zmvIoKD8PNA) (提取码: `e628`, 6min)
 
 ### Chapter 3
-- [Lecture Notes]
+### Chapter 2
+- [Lecture Notes](/files/pdf/optimization_extension.pdf)
+- [Slides](/files/pdf/optimization_extension_slides.pdf)
+- [Exercises](/files/pdf/optimization_extension_exercises.pdf)
+- Videos:
+    - 多变量多约束条件
+        - [一阶必要条件](https://pan.baidu.com/s/1NXaKaHzPpC-BmQ3Cl3P9wg) (提取码: `xzbe`, 4min)
+        - [vector-matrix form](https://pan.baidu.com/s/1NZrLnBzTTYnVCE-RYu0ugA) (提取码: `4hm1`, 5min)
+        - [约束规范性条件、拉格朗日定理](https://pan.baidu.com/s/1WlXE_xD-OUPVStWsh2NZhQ) (提取码: `fh2j`, 3min)
+    - [非负选择变量](https://pan.baidu.com/s/14PeGLWaczL9jZJeyctxCmQ) (提取码: `2qfa`, 8min)
+    - [不等号条件](https://pan.baidu.com/s/1QU9Wg8KfLI_gwKbkMGlmjA) (提取码: `dnyf`, 8min)
+    - 两个例子
+        - [例子1](https://pan.baidu.com/s/1--ErB8O_7QKniNAAUdUTlw) (提取码: `7bgb`, 8min)
+        - [例子2](https://pan.baidu.com/s/1CRylOhjrdFAE1pAgxJz9MQ) (提取码: `zj1y`, 10min)
 
 ### Chapter 4
 - [Lecture Notes]
