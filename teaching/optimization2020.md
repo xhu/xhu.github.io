@@ -38,9 +38,9 @@ description: "Dynamic Optimization, Spring 2020"
     - [两个例子](https://pan.baidu.com/s/1bBzEa8jB_K7zmvIoKD8PNA) (提取码: `e628`, 6min)
 
 ### Chapter 3
-- [Lecture Notes](/files/pdf/optimization_extension.pdf)
-- [Slides](/files/pdf/optimization_extension_slides.pdf)
-- [Exercises](/files/pdf/optimization_extension_exercises.pdf)
+- [Lecture Notes](/files/pdf/optimization_extensions.pdf)
+- [Slides](/files/pdf/optimization_extensions_slides.pdf)
+- [Exercises](/files/pdf/optimization_extensions_exercises.pdf)
 - Videos:
     - 多变量多约束条件
         - [一阶必要条件](https://pan.baidu.com/s/1NXaKaHzPpC-BmQ3Cl3P9wg) (提取码: `xzbe`, 4min)
