@@ -56,13 +56,13 @@ description: "Dynamic Optimization, Spring 2020"
 
 ### Chapter 4
 
-- [Lecture Notes](/files/pdf/optimization__shadow_prices.pdf)
+- [Lecture Notes](/files/pdf/optimization_shadow_prices.pdf)
 - [Slides](/files/pdf/optimization_shadow_prices_slides.pdf)
-- [Exercises](/files/pdf/optimization__shadow_prices_exercises.pdf)
+- [Exercises](/files/pdf/optimization_shadow_prices_exercises.pdf)
 - Videos:
     - [简介](https://pan.baidu.com/s/1hNC60ZZqsNfBcnShQugghA) (提取码: `327b`, 4min)
     - 等号约束条件
-        - [消费者选择模型（例子）](https://pan.baidu.com/s/1IrSJkKHdsaT6qpJm3ImbLw) (提取码: `d5ua`, 5min)
+        - [消费者选择模型](https://pan.baidu.com/s/1IrSJkKHdsaT6qpJm3ImbLw) (提取码: `d5ua`, 5min)
         - [两变量一约束条件](https://pan.baidu.com/s/1ufl4rQYDr3QDT3xmyMDJ6Q) (提取码: `akrx`, 4min)
         - [多变量多约束条件](https://pan.baidu.com/s/1HKZ-j9-QvBj9uLM0fk7aJg) (提取码: `bf8e`, 5min)
     - [影子价格](https://pan.baidu.com/s/168XWtKmUPf9-mbxAAtsINQ) (提取码: `hrmb`, 6min)
@@ -71,4 +71,4 @@ description: "Dynamic Optimization, Spring 2020"
         - [例子1](https://pan.baidu.com/s/1pVt534OuiJ6DMn0DiOEX-w) (提取码: `ne17`, 7min)
         - [例子2](https://pan.baidu.com/s/1oBZ5kBIgq9825YgmLoDd8A) (提取码: `gr2k`, 7min)
         
-### Assignment 1 [pdf](/files/pdf/optimization_hw1)
+### Assignment 1 [PDF](/files/pdf/optimization_hw1.pdf)
