@@ -72,3 +72,18 @@ description: "Dynamic Optimization, Spring 2020"
         - [例子2](https://pan.baidu.com/s/1oBZ5kBIgq9825YgmLoDd8A) (提取码: `gr2k`, 7min)
         
 ### Assignment 1 [PDF](/files/pdf/optimization_hw1.pdf)
+
+
+### Chapter 5
+
+- [Lecture Notes](/files/pdf/optimization_maximum_value_functions.pdf)
+- [Slides](/files/pdf/optimization_maximum_value_functions_slides.pdf)
+- [Exercises](/files/pdf/optimization_maximum_value_functions_exercises.pdf)
+- Videos:
+    - [目标函数中的参数](https://pan.baidu.com/s/1zBMCYTgWGOYhQ7L4jJBWsg) (提取码: `r5s9`, 7min)
+    - [包络定理](https://pan.baidu.com/s/1ZULYiOUvCIzOkGsdzOmQNA) (提取码: `nv62`, 9min)
+    - [所有参数](https://pan.baidu.com/s/1HhKammYq3zSnVoxF5GzHZw) (提取码: `qv9d`, 7min)
+    - [固定一些选择变量](https://pan.baidu.com/s/1g4-pmKoJJ9wiJA5fdRUxHA) (提取码: `hpwi`, 5min)
+    - 两个例子
+        - [例子1](https://pan.baidu.com/s/1dji2Fxd13XXTLfDWyoxOgg) (提取码: `uw9s`, 5min)
+        - [例子2](https://pan.baidu.com/s/1X3bEN2X9Zrmo9qW7WAV9kQ) (提取码: `vxwa`, 4min)
