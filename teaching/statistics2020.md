@@ -58,4 +58,33 @@ description: "Statistics and Prediction, Spring 2020"
   - [Notes](/files/pdf/Bertrand_Competition.pdf)
   
   - [Video](https://pan.baidu.com/s/1F_TC18dzMiJeT7DShNsLkw) (提取码: `f7tq`, 10min)
+  
+
+### Topic 2: Sampling-Based Reasoning II (Obfuscation)
+
+- [Slides](/files/pdf/Sampling-Based_Reasoning_II.pdf)
+
+- Videos:
+
+  - [简介](https://pan.baidu.com/s/1uoyRncrIFS0dZEBoLgSuqg) (提取码: `kfnq`, 1min)
+
+  - 基本模型 (Model of Competitive Obfuscation)
+
+    - [模型](https://pan.baidu.com/s/1lRSxb2ijATxCtA63GdzHIA) (提取码: `dwa3`, 7min)
+  
+    - [混淆优于简单定价的例子](https://pan.baidu.com/s/1HCV5Ae3Y-aKtIaR4nbl-IA) (提取码: `jk3h`, 3min)
+  
+    - [均衡](https://pan.baidu.com/s/1TxJzL_JC8YDta0lJVekojg) (一个简单例子 及 一般情况下的均衡形式) (提取码: `2hqy`, 3min)  
+  
+    - [均衡构造步骤](https://pan.baidu.com/s/1IZUmyIig_16CfqH4MWPXOA) (提取码: `tdjw`, 10min)
+  
+    - [均衡分析](https://pan.baidu.com/s/18wFRzSEiH5HsljwYaRL5cQ) (提取码: `bbuv`, 7min)
+  
+  - [引入质量的模型](https://pan.baidu.com/s/1BgljwbvJJLuiF0qb-LSnXw) (Production Inefficiencies) (提取码: `3ngc`, 9min)
+
+  - [引入简单产品的模型](https://pan.baidu.com/s/1Nvng9rcmu09mEd6VFUQ2zg) (Market Intervention: Introducing “Simple” Options) (提取码: `99dq`, 6min)
+
+  - [总结](https://pan.baidu.com/s/1tEReG0rRR_rWEmW2TOobZQ) (提取码: `v5g6`, 1min)
+
+
 
