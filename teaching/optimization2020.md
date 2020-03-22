@@ -91,7 +91,7 @@ description: "Dynamic Optimization, Spring 2020"
 ### Chapter 6
 
 - [Lecture Notes](/files/pdf/optimization_separation.pdf)
-- [Slides](/files/pdf/optimization_mseparation_slides.pdf)
+- [Slides](/files/pdf/optimization_separation_slides.pdf)
 - [Exercises](/files/pdf/optimization_separation_exercises.pdf)
 - Videos:
     - [分离性质](https://pan.baidu.com/s/1ZV9sIdx5be2jpvhLJGzGgA) (提取码: `49d7`, 6min)
