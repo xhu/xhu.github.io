@@ -87,3 +87,21 @@ description: "Dynamic Optimization, Spring 2020"
     - 两个例子
         - [例子1](https://pan.baidu.com/s/1dji2Fxd13XXTLfDWyoxOgg) (提取码: `uw9s`, 5min)
         - [例子2](https://pan.baidu.com/s/1X3bEN2X9Zrmo9qW7WAV9kQ) (提取码: `vxwa`, 4min)
+     
+### Chapter 6
+
+- [Lecture Notes](/files/pdf/optimization_separation.pdf)
+- [Slides](/files/pdf/optimization_mseparation_slides.pdf)
+- [Exercises](/files/pdf/optimization_separation_exercises.pdf)
+- Videos:
+    - [分离性质](https://pan.baidu.com/s/1ZV9sIdx5be2jpvhLJGzGgA) (提取码: `49d7`, 6min)
+    - 一些数学概念
+        - [凸集以及拟凸（凹）函数](https://pan.baidu.com/s/1Vxl3hu6rTebSGet8Cu_KRw) (提取码: `r2x6`, 6min)
+        - [凸（凹）函数](https://pan.baidu.com/s/1Wy9CnNgsVjTVcrEY0MfcPA) (提取码: `3q4d`, 7min)
+        - [内点/边界点以及分离定理](https://pan.baidu.com/s/1gWlPpBdala_zGmc__mqjsw) (提取码: `19sx`, 4min)
+    - 分离定理在最优化中的应用
+        - [解的存在性](https://pan.baidu.com/s/1pZtqdIIGaPp31893_RyFJg) (提取码: `nzuk`, 3min)
+        - [使用分离定理解决最优化问题](https://pan.baidu.com/s/1DgP2dyEuP9_mh3PEulCdxw) (提取码: `by9a`, 7min)
+    - [解的唯一性](https://pan.baidu.com/s/1FiILC_PnwMi2dn6pecRB6Q) (提取码: `75rc`, 9min)
+    - [例子](https://pan.baidu.com/s/1NhGFMOVoS9rUVd8obnETRA) (提取码: `25rh`, 10min)
+        
