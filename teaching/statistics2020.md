@@ -90,7 +90,7 @@ description: "Statistics and Prediction, Spring 2020"
   - [总结](https://pan.baidu.com/s/1tEReG0rRR_rWEmW2TOobZQ) (提取码: `v5g6`, 1min)
   
   
-  ### Topic 3: Coarse_Reasoning
+### Topic 3: Coarse_Reasoning
   
 - [Slides](/files/pdf/Coarse_Reasoning.pdf)
 
@@ -108,9 +108,9 @@ description: "Statistics and Prediction, Spring 2020"
   
     - [构造价格序列](https://pan.baidu.com/s/1LABpc0ywJMy9092K6D8SFw) (提取码: `5tbg`, 4min)
   
-    - [第一种情况 $T_h \geq T_l$](https://pan.baidu.com/s/1XOgUWK1zTWzV9q1IiqK8-A) (提取码: `baag`, 4min)
+    - [第一种情况 T_h ≥ T_l](https://pan.baidu.com/s/1XOgUWK1zTWzV9q1IiqK8-A) (提取码: `baag`, 4min)
     
-    - [第二种情况 $T_h < T_l$](https://pan.baidu.com/s/1To9a4pB2mO69nsXp-Cjucg) (提取码: `et6g`, 7min)
+    - [第二种情况 T_h < T_l](https://pan.baidu.com/s/1To9a4pB2mO69nsXp-Cjucg) (提取码: `et6g`, 7min)
   
   - 逆向选择
     
