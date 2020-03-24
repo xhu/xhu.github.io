@@ -114,8 +114,8 @@ description: "Statistics and Prediction, Spring 2020"
   
   - 逆向选择
     
-    - [简介及``完全粗糙''的买家](https://pan.baidu.com/s/1TKV0ep6QLGEx1dcfP-ZKnw) (提取码: `whc7`, 8min)
+    - [简介及“完全粗糙”的买家](https://pan.baidu.com/s/1TKV0ep6QLGEx1dcfP-ZKnw) (提取码: `whc7`, 8min)
     
-    - [``部分粗糙''的买家 及 买家行为影响历史信息的情况](https://pan.baidu.com/s/1P4eJD_1k-pf4zgwpQY9oOQ) (提取码: `q538`, 4min)
+    - [“部分粗糙”的买家 及 买家行为影响历史信息的情况](https://pan.baidu.com/s/1P4eJD_1k-pf4zgwpQY9oOQ) (提取码: `q538`, 4min)
 
   - [总结](https://pan.baidu.com/s/1ZkhSyklWNeh9Y27EWC0xeg) (提取码: `2y7m`, 1min)
