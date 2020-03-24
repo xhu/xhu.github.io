@@ -23,11 +23,14 @@ description: "Statistics and Prediction, Spring 2020"
 
 - 邮件标题格式为“作业编号-学号-姓名”，如：作业1-201901010101-张三，或 Assignment 1 - 201901010101 - Zhang, San
 
+- [Assignment 1](/files/pdf/statistics_hw1.pdf) (Due date: March 11, Before class) [Solution](/files/pdf/statistics_hw1_solution.pdf)
+
+- [Assignment 2](/files/pdf/statistics_hw2.pdf) (Due date: April 8, Before class)
+
+
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
 
 - [Slides](/files/pdf/Sampling-Based_Reasoning_I.pdf)
-
-- [Assignment 1](/files/pdf/statistics_hw1.pdf) (Due date: March 11, Before class)
 
 - Videos:
 
@@ -85,6 +88,34 @@ description: "Statistics and Prediction, Spring 2020"
   - [引入简单产品的模型](https://pan.baidu.com/s/1Nvng9rcmu09mEd6VFUQ2zg) (Market Intervention: Introducing “Simple” Options) (提取码: `99dq`, 6min)
 
   - [总结](https://pan.baidu.com/s/1tEReG0rRR_rWEmW2TOobZQ) (提取码: `v5g6`, 1min)
+  
+  
+  ### Topic 3: Coarse_Reasoning
+  
+- [Slides](/files/pdf/Coarse_Reasoning.pdf)
 
+- Videos:
 
+  - [简介 及 粗糙推理的框架](https://pan.baidu.com/s/1Udu735qi7CkJJkgmLTYhGw) (提取码: `jg17`, 7min)
 
+  - 使用复杂的价格模式进行价格歧视
+
+    - [模型](https://pan.baidu.com/s/1LUeCwbpshhUGnX6140iC5g) (提取码: `iz6q`, 6min)
+  
+    - [德布鲁因序列](https://pan.baidu.com/s/18o0FtAuE8ErymwUvteZo4A) (提取码: `a53s`, 4min)
+  
+    - [德布鲁因图](https://pan.baidu.com/s/1hJL9otPjtuMGmyn29cOxQw) (提取码: `j2ne`, 4min)  
+  
+    - [构造价格序列](https://pan.baidu.com/s/1LABpc0ywJMy9092K6D8SFw) (提取码: `5tbg`, 4min)
+  
+    - [第一种情况 $T_h \geq T_l$](https://pan.baidu.com/s/1XOgUWK1zTWzV9q1IiqK8-A) (提取码: `baag`, 4min)
+    
+    - [第二种情况 $T_h < T_l$](https://pan.baidu.com/s/1To9a4pB2mO69nsXp-Cjucg) (提取码: `et6g`, 7min)
+  
+  - 逆向选择
+    
+    - [简介及``完全粗糙''的买家](https://pan.baidu.com/s/1TKV0ep6QLGEx1dcfP-ZKnw) (提取码: `whc7`, 8min)
+    
+    - [``部分粗糙''的买家 及 买家行为影响历史信息的情况](https://pan.baidu.com/s/1P4eJD_1k-pf4zgwpQY9oOQ) (提取码: `q538`, 4min)
+
+  - [总结](https://pan.baidu.com/s/1ZkhSyklWNeh9Y27EWC0xeg) (提取码: `2y7m`, 1min)
