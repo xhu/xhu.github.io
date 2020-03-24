@@ -90,7 +90,7 @@ description: "Statistics and Prediction, Spring 2020"
   - [总结](https://pan.baidu.com/s/1tEReG0rRR_rWEmW2TOobZQ) (提取码: `v5g6`, 1min)
   
   
-### Topic 3: Coarse_Reasoning
+### Topic 3: Coarse Reasoning
   
 - [Slides](/files/pdf/Coarse_Reasoning.pdf)
 
