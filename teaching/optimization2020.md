@@ -104,4 +104,21 @@ description: "Dynamic Optimization, Spring 2020"
         - [使用分离定理解决最优化问题](https://pan.baidu.com/s/1DgP2dyEuP9_mh3PEulCdxw) (提取码: `by9a`, 7min)
     - [解的唯一性](https://pan.baidu.com/s/1FiILC_PnwMi2dn6pecRB6Q) (提取码: `75rc`, 9min)
     - [例子](https://pan.baidu.com/s/1NhGFMOVoS9rUVd8obnETRA) (提取码: `25rh`, 10min)
+ 
+### Chapter 7
+
+- [Lecture Notes](/files/pdf/optimization_concave_programming.pdf)
+- [Slides](/files/pdf/optimization_concave_programming_slides.pdf)
+- [Exercises](/files/pdf/optimization_concave_programming_exercises.pdf)
+- Videos:
+    - [凹函数和它们的导数](https://pan.baidu.com/s/1gOMfsyGvD3_j3LMpxYkLaw) (提取码: `g4p1`, 4min)
+    - 凹规划
+        - [问题描述及最大值函数的性质](https://pan.baidu.com/s/1LWj4TvbaiwlQpIpMZ73spw) (提取码: `5wfd`, 5min)
+        - [分离性质](https://pan.baidu.com/s/1ZmCIpZS9xCeOvm8m3_5aow) (提取码: `s2rh`, 5min)
+        - [约束规范性条件](https://pan.baidu.com/s/1zVxGJ1cezmnHyWXF8EDXdQ) (提取码: `d9yi`, 5min)
+        - [λ：影子价格](https://pan.baidu.com/s/1PTAZIC2TW32lOhBT4VNtfQ) (提取码: `5g44`, 5min)
+        - [必要条件、充分条件](https://pan.baidu.com/s/1OgABsARAgILLFdZmXrPA5A) (提取码: `qif7`, 6min)
+    - [拟凹规划](https://pan.baidu.com/s/1JJ0HXb96xOpjn_Z0f9ylcg) (提取码: `x9uw`, 6min)
+    - [解的唯一性](https://pan.baidu.com/s/1ua85t9KTEFS4F1WvIMV2ww) (提取码: `72j8`, 2min)
+    - [例子](https://pan.baidu.com/s/1LbVppiGs_hz1KjatNeH2Zw) (提取码: `f35c`, 7min)
         
