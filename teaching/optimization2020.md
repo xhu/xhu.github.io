@@ -11,7 +11,9 @@ description: "Dynamic Optimization, Spring 2020"
 
 - 除课件 (lecture notes) 和幻灯片 (slides) 外，教师还会提供视频资料（百度云上传）。
 
-### 课程简介 [PDF](/files/pdf/optimization_syllabus.pdf)  <div class="text-red mb-2"> updated on April 5, 2020 </div>
+### 课程简介 [PDF](/files/pdf/optimization_syllabus.pdf) <div class="text-red mb-2">
+  updated on April 5, 2020
+</div>
 
 - Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990
 
