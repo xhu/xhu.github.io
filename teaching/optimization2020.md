@@ -120,4 +120,31 @@ description: "Dynamic Optimization, Spring 2020"
     - [拟凹规划](https://pan.baidu.com/s/1JJ0HXb96xOpjn_Z0f9ylcg) (提取码: `x9uw`, 6min)
     - [解的唯一性](https://pan.baidu.com/s/1ua85t9KTEFS4F1WvIMV2ww) (提取码: `72j8`, 2min)
     - [例子](https://pan.baidu.com/s/1LbVppiGs_hz1KjatNeH2Zw) (提取码: `f35c`, 7min)
+    
+### Chapter 8
+
+- [Lecture Notes](/files/pdf/optimization_SOC.pdf)
+- [Slides](/files/pdf/optimization_SOC_slides.pdf)
+- [Exercises](/files/pdf/optimization_SOC_exercises.pdf)
+- Videos:
+    - [局部最大值与全局最大值](https://pan.baidu.com/s/1_NcYCz_-Kcg-CsfrJwv51A) (提取码: `c3wf`, 2min)
+    - 无条件最优化问题：标量选择变量
+        - [二阶条件](https://pan.baidu.com/s/1DNz_frn2L3I9sAaBN4FG2g) (提取码: `vs47`, 4min)
+        - [比较静态分析](https://pan.baidu.com/s/1EZpoDY4NZIw06WaBc2bHzQ) (提取码: `akji`, 3min)
+    - 无条件最优化问题：多个选择变量
+        - [泰勒展开](https://pan.baidu.com/s/1Cii1M6KPmo9x7cAMWbO5xw) (提取码: `p49w`, 2min)
+        - [(半)负定性](https://pan.baidu.com/s/1nT3Va8_70tj7uH6I_cfbjQ) (提取码: `9qyb`, 4min)
+        - [正负定的判定](https://pan.baidu.com/s/1fY4ds1MOXR00lyGuiCgyhw) (提取码: `jar4`, 3min)
+        - [二阶条件、凹凸性与正负定性的关系、比较静态分析](https://pan.baidu.com/s/14vCaoxwxF1sxa8wzczYm0A) (提取码: `hxf7`, 2min)
+    - [条件最优化问题：两个选择变量一个约束条件](https://pan.baidu.com/s/1JQO7lH7xLt5xxfa5rkIuGg) (提取码: `dni3`, 3min)
+    - 条件最优化问题：多选择变量多约束条件
+        - [定理](https://pan.baidu.com/s/1xDR-vgbKJeVTX-vNZGhorA) (提取码: `jprp`, 3min)
+        - [定理的应用](https://pan.baidu.com/s/1V0lGj-qjI6qAMIIexRcoAw) (提取码: `hkts`, 5min)
+        - [比较静态分析、不等号约束条件](https://pan.baidu.com/s/1vYQoZcsnGpWBouLdjH1tIg) (提取码: `itjj`, 2min)
+    - [二阶包络性质](https://pan.baidu.com/s/1kJu8_zVlbwSdOg_zacnorA) (提取码: `x7sk`, 3min)
+    - 例子
+        - [例子 1](https://pan.baidu.com/s/1eZmQvY67r6nFd1nv3KX8Vg) (提取码: `kp64`, 3min)
+        - [例子 2](https://pan.baidu.com/s/1vlM1ic2sdkqxndTgsolMNw) (提取码: `xs4s`, 2min)
+        - [例子 4](https://pan.baidu.com/s/12_zoxqSO1t27cB_S77G-3A) (提取码: `msdd`, 5min)
         
+### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf)
