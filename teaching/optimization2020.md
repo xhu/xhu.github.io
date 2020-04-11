@@ -147,4 +147,4 @@ description: "Dynamic Optimization, Spring 2020"
         - [例子 2](https://pan.baidu.com/s/1vlM1ic2sdkqxndTgsolMNw) (提取码: `xs4s`, 2min)
         - [例子 4](https://pan.baidu.com/s/12_zoxqSO1t27cB_S77G-3A) (提取码: `msdd`, 5min)
         
-### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf)(4月11日更新，之前第二题目标函数有误)
+### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf) (4月11日更新，之前第二题目标函数有误)
