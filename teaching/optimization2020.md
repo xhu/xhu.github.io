@@ -146,5 +146,11 @@ description: "Dynamic Optimization, Spring 2020"
         - [例子 1](https://pan.baidu.com/s/1eZmQvY67r6nFd1nv3KX8Vg) (提取码: `kp64`, 3min)
         - [例子 2](https://pan.baidu.com/s/1vlM1ic2sdkqxndTgsolMNw) (提取码: `xs4s`, 2min)
         - [例子 4](https://pan.baidu.com/s/12_zoxqSO1t27cB_S77G-3A) (提取码: `msdd`, 5min)
+
+- 附录：[向量函数求导](/files/pdf/vector-valued-functions.pdf)
+        
         
 ### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf) (4月11日更新，之前第二题目标函数有误)
+
+### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) 
+
