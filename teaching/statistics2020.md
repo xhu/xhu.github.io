@@ -133,15 +133,15 @@ description: "Statistics and Prediction, Spring 2020"
   
   - 垄断模型
    
-    - [老练消费者和完全幼稚消费者](https://pan.baidu.com/s/1GIi-wYtv9sq-cCqzctiQFw) (提取码: `59jx`, 9min)
+     - [老练消费者和完全幼稚消费者](https://pan.baidu.com/s/1GIi-wYtv9sq-cCqzctiQFw) (提取码: `59jx`, 9min)
   
-    - [部分幼稚消费者](https://pan.baidu.com/s/1_WGCMebS51Jehpq8Ng28gA) (提取码: `ed43`, 8min)  
+     - [部分幼稚消费者](https://pan.baidu.com/s/1_WGCMebS51Jehpq8Ng28gA) (提取码: `ed43`, 8min)  
   
- - [竞争模型](https://pan.baidu.com/s/1fbHFHZuJvkjH1u3tw2hP2A) (提取码: `ymvq`, 3min)
+  - [竞争模型](https://pan.baidu.com/s/1fbHFHZuJvkjH1u3tw2hP2A) (提取码: `ymvq`, 3min)
   
- - [福利分析、教育消费者、两个实际应用](https://pan.baidu.com/s/1dLlMcfVgD_aW9nVZ96Kf5A) (提取码: `tnuq`, 5min)
+  - [福利分析、教育消费者、两个实际应用](https://pan.baidu.com/s/1dLlMcfVgD_aW9nVZ96Kf5A) (提取码: `tnuq`, 5min)
  
- - [(β,δ)模型](https://pan.baidu.com/s/18TIKuI4eXkeYRXA-oR4vEQ) (提取码: `mnu6`, 5min)
+  - [(β,δ)模型](https://pan.baidu.com/s/18TIKuI4eXkeYRXA-oR4vEQ) (提取码: `mnu6`, 5min)
  
- - [总结](https://pan.baidu.com/s/12Y-fvko1yOHt3o0ixLv8jg) (提取码: `cy8p`, 1min)
+  - [总结](https://pan.baidu.com/s/12Y-fvko1yOHt3o0ixLv8jg) (提取码: `cy8p`, 1min)
 
