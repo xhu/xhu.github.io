@@ -121,7 +121,7 @@ description: "Statistics and Prediction, Spring 2020"
   - [总结](https://pan.baidu.com/s/1ZkhSyklWNeh9Y27EWC0xeg) (提取码: `2y7m`, 1min)
   
   
-  ### Topic 4: Dynamically Inconsistent Preferences
+### Topic 4: Dynamically Inconsistent Preferences
   
 - [Slides](/files/pdf/Dynamically_Inconsistent_Preferences.pdf)
 
