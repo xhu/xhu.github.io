@@ -25,7 +25,7 @@ description: "Statistics and Prediction, Spring 2020"
 
 - [Assignment 1](/files/pdf/statistics_hw1.pdf) (Due date: March 11, Before class) [Solution](/files/pdf/statistics_hw1_solution.pdf)
 
-- [Assignment 2](/files/pdf/statistics_hw2.pdf) (Due date: April 8, Before class)
+- [Assignment 2](/files/pdf/statistics_hw2.pdf) (Due date: April 8, Before class) [Solution](/files/pdf/statistics_hw2_solution.pdf)
 
 
 ### Topic 1: Sampling-Based Reasoning I (Price Competition and Product Differentiation)
@@ -119,3 +119,29 @@ description: "Statistics and Prediction, Spring 2020"
     - [“部分粗糙”的买家 及 买家行为影响历史信息的情况](https://pan.baidu.com/s/1P4eJD_1k-pf4zgwpQY9oOQ) (提取码: `q538`, 4min)
 
   - [总结](https://pan.baidu.com/s/1ZkhSyklWNeh9Y27EWC0xeg) (提取码: `2y7m`, 1min)
+  
+  
+  ### Topic 4: Dynamically Inconsistent Preferences
+  
+- [Slides](/files/pdf/Dynamically_Inconsistent_Preferences.pdf)
+
+- Videos:
+
+  - [简介](https://pan.baidu.com/s/11oMXqBOCcopd6G5TXGI-dw) (提取码: `z98a`, 2min)
+
+  - [动态不一致简介、模型](https://pan.baidu.com/s/1fCrfaMfgTpqN6g-SRKudbg) (提取码: `4nkn`, 6min)
+  
+  - 垄断模型
+   
+    - [老练消费者和完全幼稚消费者](https://pan.baidu.com/s/1GIi-wYtv9sq-cCqzctiQFw) (提取码: `59jx`, 9min)
+  
+    - [部分幼稚消费者](https://pan.baidu.com/s/1_WGCMebS51Jehpq8Ng28gA) (提取码: `ed43`, 8min)  
+  
+ - [竞争模型](https://pan.baidu.com/s/1fbHFHZuJvkjH1u3tw2hP2A) (提取码: `ymvq`, 3min)
+  
+ - [福利分析、教育消费者、两个实际应用](https://pan.baidu.com/s/1dLlMcfVgD_aW9nVZ96Kf5A) (提取码: `tnuq`, 5min)
+ 
+ - [(β,δ)模型](https://pan.baidu.com/s/18TIKuI4eXkeYRXA-oR4vEQ) (提取码: `mnu6`, 5min)
+ 
+ - [总结](https://pan.baidu.com/s/12Y-fvko1yOHt3o0ixLv8jg) (提取码: `cy8p`, 1min)
+
