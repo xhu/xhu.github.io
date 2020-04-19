@@ -155,7 +155,7 @@ description: "Dynamic Optimization, Spring 2020"
 ### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) 
 
 
-### Chapter 8
+### Chapter 9
 
 - [Lecture Notes](/files/pdf/optimization_uncertainty.pdf)
 - [Slides](/files/pdf/optimization_uncertainty_slides.pdf)
