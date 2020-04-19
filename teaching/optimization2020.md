@@ -167,7 +167,7 @@ description: "Dynamic Optimization, Spring 2020"
         - [道德风险](https://pan.baidu.com/s/1a62dvF5UkAnwFcvut06F8Q) (提取码: `2efa`, 3min)
     - [投资组合的选择](https://pan.baidu.com/s/10GnDdm6QlB6E8iEsejDgdg) (提取码: `2r9s`, 7min)   
     - [例子 1: Managerial Incentives](https://pan.baidu.com/s/1igO-nYU7ZvprNpmWeA5pzQ) (提取码: `82zy`, 6min)   
-    - 例子 2：Cost-Plus Contracts
+    - 例子 2: Cost-Plus Contracts
         - [可见成本](https://pan.baidu.com/s/14zbx9cQ1MDCuzwMJLbrfNw) (提取码: `4ffb`, 4min)
         - [不可见成本：简化问题](https://pan.baidu.com/s/1W5RguN0thRwDYyRlWUag6g) (提取码: `nb99`, 6min)
         - [不可见成本：解答](https://pan.baidu.com/s/1dv9Q0ZKmjaxOGzwFgVormQ) (提取码: `pb3t`, 4min)
