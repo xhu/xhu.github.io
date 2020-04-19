@@ -154,3 +154,24 @@ description: "Dynamic Optimization, Spring 2020"
 
 ### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) 
 
+
+### Chapter 8
+
+- [Lecture Notes](/files/pdf/optimization_uncertainty.pdf)
+- [Slides](/files/pdf/optimization_uncertainty_slides.pdf)
+- [Exercises](/files/pdf/optimization_uncertainty_exercises.pdf)
+- Videos:
+    - 期望效用
+        - [期望效用、风险厌恶](https://pan.baidu.com/s/1PN1E0lQvl122HMeETocYUA) (提取码: `avm5`, 5min)
+        - [保险、小心 (care)](https://pan.baidu.com/s/1oOKuYAUL2Qib5YvsztIEQw) (提取码: `ahbu`, 4min)
+        - [道德风险](https://pan.baidu.com/s/1a62dvF5UkAnwFcvut06F8Q) (提取码: `2efa`, 3min)
+    - [投资组合的选择](https://pan.baidu.com/s/10GnDdm6QlB6E8iEsejDgdg) (提取码: `2r9s`, 7min)   
+    - [例子 1](https://pan.baidu.com/s/1igO-nYU7ZvprNpmWeA5pzQ) (提取码: `82zy`, 6min)   
+    - 例子 2：甄别(screening)
+        - [可见成本](https://pan.baidu.com/s/14zbx9cQ1MDCuzwMJLbrfNw) (提取码: `4ffb`, 4min)
+        - [不可见成本：简化问题](https://pan.baidu.com/s/1W5RguN0thRwDYyRlWUag6g) (提取码: `nb99`, 6min)
+        - [不可见成本：解答](https://pan.baidu.com/s/1dv9Q0ZKmjaxOGzwFgVormQ) (提取码: `pb3t`, 4min)
+        - [图画展示](https://pan.baidu.com/s/1MkmCzgGT9SthtiNEUFYVCg) (提取码: `ca4g`, 2min)
+              
+### Assignment 3 [PDF](/files/pdf/optimization_hw3.pdf)
+
