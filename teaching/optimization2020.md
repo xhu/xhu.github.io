@@ -150,7 +150,7 @@ description: "Dynamic Optimization, Spring 2020"
 - 附录：[向量函数求导](/files/pdf/vector-valued-functions.pdf)
         
         
-### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf) (4月11日更新，之前第二题目标函数有误)
+### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf) 
 
 ### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) 
 
