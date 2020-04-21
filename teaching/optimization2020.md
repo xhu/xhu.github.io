@@ -157,7 +157,7 @@ description: "Dynamic Optimization, Spring 2020"
 
 ### Chapter 9
 
-- [Lecture Notes](/files/pdf/optimization_uncertainty.pdf)
+- [Lecture Notes](/files/pdf/optimization_uncertainty.pdf) (Updated on April 21, 2020)
 - [Slides](/files/pdf/optimization_uncertainty_slides.pdf)
 - [Exercises](/files/pdf/optimization_uncertainty_exercises.pdf)
 - Videos:
