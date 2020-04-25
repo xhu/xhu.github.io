@@ -144,4 +144,37 @@ description: "Statistics and Prediction, Spring 2020"
   - [(β,δ)模型](https://pan.baidu.com/s/18TIKuI4eXkeYRXA-oR4vEQ) (提取码: `mnu6`, 5min)
  
   - [总结](https://pan.baidu.com/s/12Y-fvko1yOHt3o0ixLv8jg) (提取码: `cy8p`, 1min)
+  
+
+### Topic 5: Biased Beliefs without Dynamic Inconsistency
+  
+- [Slides](/files/pdf/Biased_Belief.pdf)
+
+- Videos:
+
+  - [简介](https://pan.baidu.com/s/1o95808hiyZI_KeVnAN_Iyw) (提取码: `cmt6`, 2min)
+  
+  - 过分乐观
+   
+     - [模型及分析](https://pan.baidu.com/s/1z1KuuPSc4wLEyu7zoqMABw) (提取码: `fgpt`, 5min)
+  
+     - [与频率上部分幼稚消费者的比较](https://pan.baidu.com/s/1Gz-JcxQh9mLLAl7nCLs9AA) (提取码: `nbxe`, 4min)  
+     
+  - 过分自信
+   
+     - [模型](https://pan.baidu.com/s/1XZqU3xDpKF-UfAPugt9vFw) (提取码: `usyw`, 6min)
+  
+     - [均衡分析、Intuition](https://pan.baidu.com/s/16V4XvtEEUCiZUA3-qm7Giw) (提取码: `7kas`, 5min) 
+     
+  - 不可预知的事件
+   
+     - [模型](https://pan.baidu.com/s/1Wrv2Ff_IqxQmkqxxceGMZw) (提取码: `2pz8`, 2min)
+  
+     - [老练消费者、幼稚消费者](https://pan.baidu.com/s/1lryerrY9uV2fh5iK-QIVKg) (提取码: `miu3`, 6min) 
+     
+     - [混合消费者类型](https://pan.baidu.com/s/13alNaJMIM_g7O6h1DN8ZxA) (提取码: `u2cp`, 4min) 
+     
+     - [教育消费者、理性消费者模型](https://pan.baidu.com/s/1WXioFqDSF2UBrwO_t9Nulg) (提取码: `qjaf`, 4min) 
+ 
+  - [总结](https://pan.baidu.com/s/1zNYJayjI9hhS4nqF_yeDyQ) (提取码: `bwdn`, 1min)
 
