@@ -13,7 +13,7 @@ description: "Statistics and Prediction, Spring 2020"
 
 ### Syllabus [PDF](/files/pdf/statistics_syllabus.pdf)
 
-- Textbook: Book: Spiegler, Ran. Bounded Rationality and Industrial Organization. Oxford University Press, 2011. Part II.
+- Textbook: Book: Spiegler, Ran. Bounded Rationality and Industrial Organization. Oxford University Press, 2011.
 
 ### 作业说明
 
