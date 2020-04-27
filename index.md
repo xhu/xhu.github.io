@@ -48,6 +48,6 @@ Accepted at *Journal of Industrial Economics.* [Working paper version](/files/pd
 
 - [Advanced Microeconomics, Fall 2019](/teaching/micro2019) (Graduate Course)
 
-- [Dynamic Optimization, Spring 2020](/teaching/optimization2020) (Undergraduate Course)
+<!-- - [Dynamic Optimization, Spring 2020](/teaching/optimization2020) (Undergraduate Course)-->
 
-- [Statistics and Prediction, Spring 2020](/teaching/statistics2020) (Graduate Course)
+<!-- - [Statistics and Prediction, Spring 2020](/teaching/statistics2020) (Graduate Course)-->
