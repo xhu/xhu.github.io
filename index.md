@@ -7,7 +7,7 @@ Hi, I am Xiaoxiao Hu (胡枭骁). I am an Assistant Professor at The Economics a
 
 My research interest is Applied Microeconomic Theory with a focus on Industrial Organization and Repeated/Dynamic Games. 
 
-Here is [my CV.](/files/pdf/CV_Xiaoxiao_Sep_2019.pdf) 
+Here is [my CV.](/files/pdf/CV_Xiaoxiao_April_2020.pdf) 
 
 **Postal Address**  <br> 
 Room C151, Economics and Management School <br>
