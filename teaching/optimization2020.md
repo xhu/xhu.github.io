@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Dynamic Optimization, Spring 2020"
+description: "Dynamic Optimization (First Half), Spring 2020"
 ---
 
 **教学期间，本课程网站会持续更新。** 有问题可以通过 [Github issue](https://github.com/xhu/xhu.github.io/issues) （推荐） 或 qq 群（不推荐）询问。
