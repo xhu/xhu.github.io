@@ -21,7 +21,7 @@ xhuah "at" connect.ust.hk
 
 ### Publication
 
-1. [**“Using Customer Service to Build Clients' Trust”**](https://onlinelibrary.wiley.com/doi/full/10.1111/joie.12219), with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng, *Journal of Industrial Economics*, Vol. 68, March 2020, Page 136-155. 
+[**“Using Customer Service to Build Clients' Trust”**](https://onlinelibrary.wiley.com/doi/full/10.1111/joie.12219), with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng, *Journal of Industrial Economics*, Vol. 68, March 2020, Page 136-155. 
 <!-- [Working paper version](/files/pdf/customer-service.pdf) -->
 
 
