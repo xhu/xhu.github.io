@@ -152,7 +152,7 @@ description: "Dynamic Optimization (First Half), Spring 2020"
         
 ### Assignment 2 [PDF](/files/pdf/optimization_hw2.pdf) 
 
-### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) 
+<!-- ### 课后习题参考答案 [PDF](/files/pdf/optimization_exercises_solutions.pdf) -->
 
 
 ### Chapter 9
