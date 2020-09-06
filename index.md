@@ -45,7 +45,7 @@ xhuah "at" connect.ust.hk
 
 # Teaching
 
-- [Advanced Microeconomics, Fall 2019](/teaching/micro2019) (Graduate Course)
+- Advanced Microeconomics, [Fall 2020](/teaching/micro2020), Fall 2019 (Graduate Course)
 
 - [Dynamic Optimization (First Half), Spring 2020](/teaching/optimization2020) (Undergraduate Course)
 
