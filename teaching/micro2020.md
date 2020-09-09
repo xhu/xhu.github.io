@@ -31,9 +31,9 @@ description: "Advanced Microeconomics, Fall 2020"
 
 ### MWG Chapter 1
 
-- [Lecture Notes]()
+- [Lecture Notes](/files/pdf/mwgch1.pdf)
 
-- [Slides]()
+- [Slides](/files/pdf/mwgch1_slides.pdf)
 
-- [Assignment 1]()
+- [Assignment 1](/files/pdf/micro_hw1.pdf)
 
