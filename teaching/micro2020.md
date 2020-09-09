@@ -12,7 +12,7 @@ description: "Advanced Microeconomics, Fall 2020"
 
 - 上课地点：2区11 - 302
 
-### [Syllabus](/files/pdf/micro2020_syllabus.pdf)
+### [Syllabus](/files/pdf/micro2020_syllabus.pdf), [Slides](/files/pdf/micro2020_syllabus_slides.pdf)
 
 - Textbook: Microeconomic Theory, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
 
