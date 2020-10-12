@@ -50,7 +50,7 @@ description: "Advanced Microeconomics, Fall 2020"
 
 ### MWG Chapter 3
 
-- Lecture Notes [[Part 1](/files/pdf/mwgch2_part1.pdf), 
+- Lecture Notes [[Part 1](/files/pdf/mwgch3_part1.pdf), 
 Math Review, 
 Part 2]
 
