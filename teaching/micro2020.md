@@ -40,9 +40,9 @@ description: "Advanced Microeconomics, Fall 2020"
 
 ### MWG Chapter 2
 
-- [Lecture Notes](/files/pdf/mwgch2.pdf)
+- [Lecture Notes](/files/pdf/mwgch2.pdf) (Updated October 22)
 
-- [Slides](/files/pdf/mwgch2_slides.pdf)
+- [Slides](/files/pdf/mwgch2_slides.pdf) (Updated October 22)
 
 - [Assignment 2](/files/pdf/micro_hw2.pdf) (Tentative Due Date: October 22, before class)
 
