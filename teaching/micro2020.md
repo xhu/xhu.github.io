@@ -55,5 +55,5 @@ description: "Advanced Microeconomics, Fall 2020"
 Part 2]
 
 - Slides [[Part 1](/files/pdf/mwgch3_slides_part1.pdf), 
-[Math Review](/files/pdf/MathReview_MaximizationProblem_slides.pdf),  
+[Math Review](/files/pdf/MathReview_MaximizationProblem_slides.pdf), 
 Part 2] 
