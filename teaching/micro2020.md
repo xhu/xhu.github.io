@@ -50,10 +50,10 @@ description: "Advanced Microeconomics, Fall 2020"
 
 ### MWG Chapter 3
 
-- Lecture Notes [[Part 1](/files/pdf/mwgch3_part1.pdf), 
+- Lecture Notes [[Part 1](/files/pdf/mwgch3_part1.pdf) (Updated October 29), 
 [Math Review](/files/pdf/MathReview_MaximizationProblem.pdf), 
 Part 2]
 
-- Slides [[Part 1](/files/pdf/mwgch3_slides_part1.pdf), 
+- Slides [[Part 1](/files/pdf/mwgch3_slides_part1.pdf) (Updated October 29), 
 [Math Review](/files/pdf/MathReview_MaximizationProblem_slides.pdf), 
 Part 2] 
