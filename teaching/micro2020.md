@@ -58,4 +58,4 @@ description: "Advanced Microeconomics, Fall 2020"
 [Math Review](/files/pdf/MathReview_MaximizationProblem_slides.pdf), 
 [Part 2](/files/pdf/mwgch3_slides_part2.pdf)] 
 
-- [Assignment 3](/files/pdf/micro_hw3.pdf) (Tentative Due Date: November 19, before class)
+- [Assignment 3](/files/pdf/micro_hw3.pdf) (Due Date: November 26, before class)
