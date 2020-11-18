@@ -35,7 +35,7 @@ description: "Advanced Microeconomics, Fall 2020"
 
 - [Slides](/files/pdf/mwgch1_slides.pdf)
 
-- [Assignment 1](/files/pdf/micro_hw1.pdf), [Solution](/files/pdf/micro_hw1_solution.pdf)
+- [Assignment 1](/files/pdf/micro_hw1.pdf) (Due Date: September 24, before class) [Solution](/files/pdf/micro_hw1_solution.pdf)
 
 
 ### MWG Chapter 2
@@ -44,7 +44,7 @@ description: "Advanced Microeconomics, Fall 2020"
 
 - [Slides](/files/pdf/mwgch2_slides.pdf) (Updated October 22)
 
-- [Assignment 2](/files/pdf/micro_hw2.pdf), [Solution](/files/pdf/micro_hw2_solution.pdf)
+- [Assignment 2](/files/pdf/micro_hw2.pdf) (Due Date: October 22, before class) [Solution](/files/pdf/micro_hw2_solution.pdf)
 
 
 
