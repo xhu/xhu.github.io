@@ -52,7 +52,7 @@ description: "Advanced Microeconomics, Fall 2020"
 
 - Lecture Notes [[Part 1](/files/pdf/mwgch3_part1.pdf) (Updated October 29), 
 [Math Review](/files/pdf/MathReview_MaximizationProblem.pdf), 
-[Part 2](/files/pdf/mwgch3_part2.pdf)] (Updated November 26)
+[Part 2](/files/pdf/mwgch3_part2.pdf) (Updated November 26)] 
 
 - Slides [[Part 1](/files/pdf/mwgch3_slides_part1.pdf) (Updated October 29), 
 [Math Review](/files/pdf/MathReview_MaximizationProblem_slides.pdf), 
