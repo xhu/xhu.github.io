@@ -68,4 +68,4 @@ description: "Advanced Microeconomics, Fall 2020"
 
 - [Slides](/files/pdf/mwgch5_slides.pdf)
 
-- [Assignment 4](/files/pdf/micro_hw4.pdf) (Tentative Due Date: December 17, before class)
+- [Assignment 4](/files/pdf/micro_hw4.pdf) (Due Date: December 17, before class) [Solution](/files/pdf/micro_hw4_solution.pdf)
