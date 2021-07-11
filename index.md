@@ -50,3 +50,10 @@ xhuah "at" connect.ust.hk
 - [Dynamic Optimization (First Half), Spring 2020](/teaching/optimization2020) (Undergraduate Course)
 
 <!-- - [Statistics and Prediction, Spring 2020](/teaching/statistics2020) (Graduate Course)-->
+
+# Miscellaneous
+
+- My wonderful partner [Haoran](https://albertlei.github.io/) works on microeconomic theory.
+
+
+
