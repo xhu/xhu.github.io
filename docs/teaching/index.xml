@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Xiaoxiao HU</title>
+    <link>https://xhu.github.io/teaching.html</link>
+    <description>Recent content in Teachings on Xiaoxiao HU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://xhu.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game2022fall</title>
+      <link>https://xhu.github.io/teaching/game2022fall.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/game2022fall.html</guid>
+      <description>Game Theory 2022年秋，武汉大学，本科课程
+  上课时间：周二 14:05 - 16:30 (6 - 8节)
+  上课地点：第四教学楼 301
+  通知   1010：作业二上传
+  0926: Ch2 讲义、幻灯片上传
+  0913：作业一上传
+  0904: Ch1 讲义、幻灯片上传
+  课程说明   课纲 PDF
+  参考资料：
+ Gibbons, R. (1992). A primer in game theory. Open Yale Course: Game Theory    教师会在每堂课前公布相应课件。
+  课程资料     讲义 幻灯片     Ch1 Static Games of Complete Information PDF PDF   Ch2 Dynamic Games of Complete Information PDF PDF    作业 说明：</description>
+    </item>
+    
+    <item>
+      <title>game2022spring</title>
+      <link>https://xhu.github.io/teaching/game2022spring.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/game2022spring.html</guid>
+      <description>Game Theory 2022年春，武汉大学，本科课程
+  上课时间：周一 18:30 - 20:55 (11 - 13节)
+  上课地点：第五教学楼 203
+  课程说明   课纲 PDF
+  参考资料：
+ Gibbons, R. (1992). A primer in game theory. Open Yale Course: Game Theory    教师会在每堂课前公布相应课件。
+  课程资料 作业 说明：
+  要求字迹工整，可辨认。
+  QQ 群作业提交。
+  博弈论相关术语翻译  建议大家优先学习/掌握术语的英文表述。经济学的很多术语翻译不统一，一些流行的翻译甚至是错误的。 这个翻译对照表仅根据本课程内容设定，欢迎反馈.     英文 中文 其他翻译 注     incomplete information 不完备信息1 不完全信息    strategy 策略 战略    dominant strategy 优势策略 占优策略 不建议翻译成&amp;quot;占优策略&amp;quot;，因为这样 domonated strategy 就不好翻译了   dominated strategy 劣势策略  dominated strategy 不要翻译成&amp;quot;不占优策略&amp;quot;。一个策略不是占优策略，不意味着它就是劣势策略   A is dominated by B A 劣于 B     B dominated A B优于A     strictly/weakly 严格/不严格  不要把 weakly 翻译成&amp;quot;弱&amp;quot;。中文里习惯说函数 f 不严格递增，而不是说它弱递增      将 (in)complete 翻译成（不）完备的，可以和另一个经济学术语完备度量空间 (complete metric space) 保持一致。&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title>micro2019</title>
+      <link>https://xhu.github.io/teaching/micro2019.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/micro2019.html</guid>
+      <description>Advanced Microeconomics 2019年秋，武汉大学，高级微观经济学硕士班
+  上课时间：Monday 14:05 - 16:30 (6 - 8 节)
+  上课地点：1 区枫-304
+  Syllabus   Textbook: Microeconomic Theory, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
+  This course covers Chapter 1, 2, 3 and 5.
+  可以不买教材，教师会在每堂课前公布相应课件，课件中命题 (Proposition) ，练习 (Exercise) 等编号均和教材一致。 该教材 (MWG) 难度较高，是北美经济学博士生的标准教材。
+  作业说明 纸质版或电子版均可。
+  纸质版：要求字迹工整，可辨认。
+  电子版：邮件提交，附件要求 .pdf 格式。邮件标题格式为“作业编号-学号-姓名”，如：作业1-201901010101-张三。
+  </description>
+    </item>
+    
+    <item>
+      <title>micro2020</title>
+      <link>https://xhu.github.io/teaching/micro2020.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/micro2020.html</guid>
+      <description>Advanced Microeconomics 2020年秋，武汉大学，高级微观经济学硕士班
+  上课时间：Thursday 9:50 - 12:15 (3 - 5节)
+  上课地点：2区11 - 302
+  Syllabus (Slides)   Textbook: Microeconomic Theory, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
+  This course covers Chapter 1, 2, 3 and 5.
+  可以不买教材，教师会在每堂课前公布相应课件，课件中命题 (Proposition) ，练习 (Exercise) 等编号均和教材一致。 该教材 (MWG) 难度较高，是北美经济学博士生的标准教材。
+  作业说明 纸质版或电子版均可。
+  纸质版：要求字迹工整，可辨认。
+  电子版：邮件提交，附件要求 .pdf 格式。邮件标题格式为“作业编号-学号-姓名”，如：作业1-201901010101-张三。
+  </description>
+    </item>
+    
+    <item>
+      <title>micro2021</title>
+      <link>https://xhu.github.io/teaching/micro2021.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/micro2021.html</guid>
+      <description>Advanced Microeconomics 2021年秋，武汉大学，高级微观经济学硕士班
+  上课时间：周一 14:05 - 16:30: (6 - 8节)
+  上课地点：1 区枫 - 205
+  通知   1220: 作业四答案上传
+  1206: 作业三答案上传
+  1121: Ch5 讲义和幻灯片、作业四上传
+  1107：补充材料 1 &amp;amp; 2 上传
+  1104: 作业二答案上传
+  1031: Ch3 Part 2 讲义和幻灯片、作业三上传
+  1025: Proposition 3.C.1 证明更新
+  1024: Ch3 Math Review 讲义和幻灯片上传
+  1017: Ch3 Part 1 讲义和幻灯片上传</description>
+    </item>
+    
+    <item>
+      <title>micro2022</title>
+      <link>https://xhu.github.io/teaching/micro2022.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/micro2022.html</guid>
+      <description>Advanced Microeconomics 2022年秋，武汉大学，高级微观经济学硕士班
+  上课时间：周一 14:05 - 16:30 (6 - 8节)
+  上课地点：1 区枫 - 204
+  通知   1009: Ch3 讲义、幻灯片、作业一答案、作业二上传
+  0912: Ch2 讲义、幻灯片上传
+  0904: Ch1 讲义、幻灯片、作业一上传
+  课程说明   课纲 PDF
+  Textbook: Microeconomic Theory, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
+ This course covers Chapter 1, 2, 3 and 5.    可以不买教材，教师会在每堂课前公布相应课件，课件中命题 (Proposition) ，练习 (Exercise) 等编号均和教材一致。 该教材 (MWG) 难度较高，是北美经济学博士生的标准教材。</description>
+    </item>
+    
+    <item>
+      <title>opt2020</title>
+      <link>https://xhu.github.io/teaching/optimization2020.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/optimization2020.html</guid>
+      <description>教学期间，本课程网站会持续更新。 有问题可以通过 Github issue （推荐） 或 qq 群（不推荐）询问。
+  上课时间：Monday 9:50 - 12:15
+  授课方式：网络教学
+  除课件 (lecture notes) 和幻灯片 (slides) 外，教师还会提供视频资料（百度云上传）。
+  课程简介 PDF (Updated on April 5, 2020)  Textbook: Optimization in Economic Theory, Avinash K. Dixit, Oxford University Press, 1990  Chapter 1  Lecture Notes Slides Videos:  消费者选择模型 (提取码: 7uji, 8min) 无套利条件 (提取码: e1ns, 7min) 相切条件、边界解、收入的边际效用 (提取码: 89s8, 6min) 多商品及多约束条件、非紧约束 (提取码: ky2v, 4min)    Chapter 2  Lecture Notes Slides Exercises Videos:  最大化问题 (提取码: i6nx, 2min) 无套利条件 (提取码: d6pi, 7min) 约束规范性条件、相切条件、必要vs.</description>
+    </item>
+    
+    <item>
+      <title>opt2022</title>
+      <link>https://xhu.github.io/teaching/optimization2022.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/optimization2022.html</guid>
+      <description>Dynamic Optimization 2022年春，武汉大学，本科课程
+  上课时间：周二 14:05 - 16:30 (6 - 8节)
+  上课地点：1 区枫 - 210
+  课程说明   课纲 PDF
+  Textbook: Avinash K. Dixit, Optimization in Economic Theory. Oxford University Press, 1990.
+  可以不买教材，教师会在每堂课前公布相应课件。
+  课程资料     讲义 幻灯片     Ch1 Introduction PDF PDF   Ch2 Lagrange’s Method PDF PDF   Ch3 Extensions and Generalizations PDF PDF   Ch4 Shadow Prices PDF PDF   Ch5 Maximum Value Functions PDF PDF   Ch6 Convex Sets and and Their Separations PDF PDF   Ch7 Concave Programming PDF PDF   Ch8 Second-Order Conditions PDF PDF   Ch9 Uncertainty PDF PDF   Ch10 Time: The Maximization Principle PDF PDF   Ch11 Dynamic Programming PDF PDF    作业 说明：</description>
+    </item>
+    
+    <item>
+      <title>stat2020</title>
+      <link>https://xhu.github.io/teaching/statistics2020.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhu.github.io/teaching/statistics2020.html</guid>
+      <description>教学期间，本课程网站会持续更新。 有问题可以通过 Github issue （推荐） 或 qq 群（不推荐）询问。
+  上课时间：Wednesday 8:50 - 11:25
+  授课方式：网络教学
+  除幻灯片 (slides) 外，教师还会提供视频资料（百度云上传）。
+  Syllabus PDF  Textbook: Book: Spiegler, Ran. Bounded Rationality and Industrial Organization. Oxford University Press, 2011.  作业说明   请使用英文作答。
+  邮件提交，附件要求 .pdf 格式。
+  邮件标题格式为“作业编号-学号-姓名”，如：作业1-201901010101-张三，或 Assignment 1 - 201901010101 - Zhang, San
+  Assignment 1 (Due date: March 11, Before class) Solution</description>
+    </item>
+    
+  </channel>
+</rss>

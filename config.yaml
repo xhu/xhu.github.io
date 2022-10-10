@@ -1,0 +1,40 @@
+baseURL: 'https://xhu.github.io/'
+languageCode: 'en'
+title: 'Xiaoxiao HU'
+
+theme: 'hugo-xmin'
+
+disableKinds:
+  - "taxonomy" 
+  - "taxonomyTerm"
+
+ignoreErrors: 
+  - "error-disable-taxonomy" 
+  - "error-disable-taxonomyTerm"
+
+uglyurls: true
+publishDir: docs
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: CV
+      url: "cv.html"
+      weight: 2  
+    - name: Research
+      url: "research.html"
+      weight: 3
+    - name: Teaching
+      url: "teach.html"
+      weight: 3
+
+
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
