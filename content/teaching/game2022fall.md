@@ -60,7 +60,6 @@ description: "Game Theory, Fall 2022"
 |[作业一](/pdf/game_hw1_2022fall.pdf)  |  2022年9月30日（周五）<br>（更改为 10月3日） | [PDF](/pdf/game_hw1_2022fall_solution.pdf)  <br>[Bertrand Competition](/pdf/Bertrand_Competition.pdf)|
 |[作业二](/pdf/game_hw2_2022fall.pdf)  |  2022年10月23日（周日） | |
 
-<!-- -->
 
 ### 博弈论相关术语翻译
 
