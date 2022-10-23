@@ -14,9 +14,11 @@ description: "Game Theory, Fall 2022"
 
 ### 通知
 
+- 1023：Ch3 讲义、幻灯片上传
+
 - 1012：作业一答案上传
 
-- 1010：作业二
+- 1010：作业二上传
 
 - 0926：Ch2 讲义、幻灯片上传
 
@@ -41,9 +43,7 @@ description: "Game Theory, Fall 2022"
 | --------------------------- | ---------------------------- | ------------------------------------- |
 | Ch1 Static Games of Complete Information   | [PDF](/pdf/ch1_game_static_complete_info.pdf) | [PDF](/pdf/ch1_game_static_complete_info_slides.pdf) |
 | Ch2 Dynamic Games of Complete Information   | [PDF](/pdf/ch2_game_dynamic_complete_info.pdf) | [PDF](/pdf/ch2_game_dynamic_complete_info_slides.pdf) |
-<!--
-| Ch3 Games of Incomplete Information   | [PDF](/pdf/ch3_game_incomplete_info.pdf) | [PDF](/pdf/ch3_game_incomplete_info_slides.pdf) |
--->
+| Ch3 Games of Incomplete Information   | [PDF](/pdf/ch3_game_incomplete_info_extended.pdf) | [PDF](/pdf/ch3_game_incomplete_info_slides_extended.pdf) |
 
 
 ### 作业
