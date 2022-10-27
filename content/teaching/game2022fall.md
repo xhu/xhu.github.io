@@ -14,6 +14,8 @@ description: "Game Theory, Fall 2022"
 
 ### 通知
 
+- 1027：作业二答案、作业三上传
+
 - 1023：Ch3 讲义、幻灯片上传
 
 - 1012：作业一答案上传
@@ -58,7 +60,8 @@ description: "Game Theory, Fall 2022"
 | No. | 截止日期             | 参考答案
 | ------ | -------------------- | -------- |
 |[作业一](/pdf/game_hw1_2022fall.pdf)  |  2022年9月30日（周五）<br>（更改为 10月3日） | [PDF](/pdf/game_hw1_2022fall_solution.pdf)  <br>[Bertrand Competition](/pdf/Bertrand_Competition.pdf)|
-|[作业二](/pdf/game_hw2_2022fall.pdf)  |  2022年10月23日（周日） | |
+|[作业二](/pdf/game_hw2_2022fall.pdf)  |  2022年10月23日（周日） | [PDF](/pdf/game_hw2_2022fall_solution.pdf)|
+|[作业三](/pdf/game_hw3_2022fall.pdf)  |  2022年11月6日（周日） | |
 
 
 ### 博弈论相关术语翻译
