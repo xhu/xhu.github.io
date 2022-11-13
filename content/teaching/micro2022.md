@@ -14,6 +14,8 @@ description: "Advanced Microeconomics, Fall 2022"
 
 ### 通知
 
+- 1113: Ch5 讲义、幻灯片、作业三上传
+
 - 1030: 作业二答案上传
 
 - 1023: 补充材料上传
@@ -45,9 +47,8 @@ description: "Advanced Microeconomics, Fall 2022"
 | ------ | -------------------- | -------------------- |
 | [作业一](/pdf/micro_hw1.pdf) |  9月25日（周日） | [PDF](/pdf/micro_hw1_solution.pdf) |
 | [作业二](/pdf/micro_hw2.pdf) |  10月23日（周日）| [PDF](/pdf/micro_hw2_solution.pdf)|
-
+| [作业三](/pdf/micro_hw3.pdf) |  11月27日（周日）| <!-- [PDF](/pdf/micro_hw3_solution.pdf) -->  |
 <!--
-| [作业三](/pdf/micro_hw3.pdf) |  11月20日（周日）|  [PDF](/pdf/micro_hw3_solution.pdf)  |
 | [作业四](/pdf/micro_hw4.pdf) |  12月11日（周日） |    [PDF](/pdf/micro_hw4_solution.pdf) |
 -->
 
@@ -58,5 +59,5 @@ description: "Advanced Microeconomics, Fall 2022"
 | Ch1 Preference and Choice   | [PDF](/pdf/mwgch1.pdf) | [PDF](/pdf/mwgch1_slides.pdf) |
 | Ch2 Consumer Choice         |  [PDF](/pdf/mwgch2.pdf) | [PDF](/pdf/mwgch2_slides.pdf) |
 | Ch3 Classical Demand Theory |  [Part 1](/pdf/mwgch3_part1.pdf) <br> [Math Review](/pdf/MathReview_MaximizationProblem.pdf) <br> [Part 2](/pdf/mwgch3_part2.pdf)   |   [Part 1](/pdf/mwgch3_slides_part1.pdf) <br> [Math Review](/pdf/MathReview_MaximizationProblem_slides.pdf) <br> [Part 2](/pdf/mwgch3_slides_part2.pdf) |
-| Ch5 Production              |  <!--[PDF](/pdf/mwgch5.pdf) -->|  <!--[PDF](/pdf/mwgch5_slides.pdf)--> |
+| Ch5 Production              |  [PDF](/pdf/mwgch5.pdf) | [PDF](/pdf/mwgch5_slides.pdf) |
 | 补充材料             | 1. [凸集、（拟）凹/凸函数](/pdf/convex-set.pdf) <br> 2. [（半）正/负定矩阵、加边海塞矩阵](/pdf/SOC-bordered-hessian.pdf)                      |                                       |
