@@ -48,6 +48,7 @@ description: "Game Theory, Fall 2022"
 | Ch1 Static Games of Complete Information   | [PDF](/pdf/ch1_game_static_complete_info.pdf) | [PDF](/pdf/ch1_game_static_complete_info_slides.pdf) |
 | Ch2 Dynamic Games of Complete Information   | [PDF](/pdf/ch2_game_dynamic_complete_info.pdf) | [PDF](/pdf/ch2_game_dynamic_complete_info_slides.pdf) |
 | Ch3 Games of Incomplete Information   | [PDF](/pdf/ch3_game_incomplete_info_extended.pdf) | [PDF](/pdf/ch3_game_incomplete_info_slides_extended.pdf) |
+| Review   | [PDF](/pdf/game_review_2022fall.pdf) |  |
 
 
 ### 作业

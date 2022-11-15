@@ -4,6 +4,10 @@ title: "opt2020"
 description: "Dynamic Optimization (First Half), Spring 2020"
 ---
 
+## Dynamic Optimization
+
+2020年春，武汉大学，本科课程
+
 **教学期间，本课程网站会持续更新。** 有问题可以通过 [Github issue](https://github.com/xhu/xhu.github.io/issues) （推荐） 或 qq 群（不推荐）询问。
 
 - 上课时间：Monday 9:50 - 12:15
