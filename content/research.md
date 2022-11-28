@@ -89,14 +89,11 @@ with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang
 </details>
 
 
-Credence Goods Markets With Full Choice Right<br>
+Information Transmission in Credence Goods Markets<br>
 with Haoran Lei
 <details>
   <summary>Abstract</summary>
-  <p>We study the credence goods markets in which an expert seller sends a cheap-talk message to a customer, and then the customer self-selects the most desired option.
-Utilizing the quasiconcave envelope approach (Lipnowski and Ravid, 2020), we characterize the expert's expected payoffs and strategies in equilibria.
-We extend our model to discuss the effects of customer heterogeneities and
-market segmentations. </p>
+  <p>A customer has a problem but is uncertain about the problem type. An expert seller, after privately observing the problem type, sends a costless, unverifiable message to the customer. Then the customer self-selects her most desired treatment. Utilizing the quasiconcave envelope approach (Lipnowski and Ravid, 2020), we characterize expert’s profits in the expert-preferred equilibria. We also provide a recipe for finding an expert-preferred equilibrium in a general setup. We discuss the effects of market segmentations and customer heterogeneities. </p>
 </details>
 
 
