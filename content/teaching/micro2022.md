@@ -14,6 +14,8 @@ description: "Advanced Microeconomics, Fall 2022"
 
 ### 通知
 
+- 1206: 作业三答案、作业四上传
+
 - 1113: Ch5 讲义、幻灯片、作业三上传
 
 - 1030: 作业二答案上传
@@ -47,10 +49,9 @@ description: "Advanced Microeconomics, Fall 2022"
 | ------ | -------------------- | -------------------- |
 | [作业一](/pdf/micro_hw1.pdf) |  9月25日（周日） | [PDF](/pdf/micro_hw1_solution.pdf) |
 | [作业二](/pdf/micro_hw2.pdf) |  10月23日（周日）| [PDF](/pdf/micro_hw2_solution.pdf)|
-| [作业三](/pdf/micro_hw3.pdf) |  11月27日（周日）| <!-- [PDF](/pdf/micro_hw3_solution.pdf) -->  |
-<!--
-| [作业四](/pdf/micro_hw4.pdf) |  12月11日（周日） |    [PDF](/pdf/micro_hw4_solution.pdf) |
--->
+| [作业三](/pdf/micro_hw3.pdf) |  11月27日（周日）|  [PDF](/pdf/micro_hw3_solution.pdf)  |
+| [作业四](/pdf/micro_hw4.pdf) |  12月18日（周日） |   <!-- [PDF](/pdf/micro_hw4_solution.pdf) --> |
+
 
 ### 课程资料
 
