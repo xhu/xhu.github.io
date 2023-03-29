@@ -65,6 +65,17 @@ with Haoran Lei
 
 [paper-veto]: https://doi.org/10.48550/arXiv.2208.14829
 
+[Information Transmission in Credence Goods Markets][paper-cg]
+<br>
+with Haoran Lei
+<details>
+  <summary>Abstract</summary>
+  <p>We study a general credence goods model with N problem types and N treatments. Communication between the expert seller and the client is modeled as cheap talk. We find that the expert's equilibrium payoffs admit a geometric characterization, described by the quasiconcave envelope of his belief-based profits function under discriminatory pricing. We establish the existence of client-worst equilibria, apply the geometric characterization to previous research on credence goods, and provide a necessary and sufficient condition for when communication benefits the expert. For the binary case, we solve for all equilibria and analyze their welfare properties.s </p>
+</details>
+
+[paper-cg]: https://doi.org/10.48550/arXiv.2303.13295
+
+
 Voluntarily Separable Game With In-relationship Search<br> 
 with Yuk-fai Fong <details><summary>Abstract</summary>
   <p>We consider a large society where players can search for a
@@ -89,12 +100,7 @@ with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang
 </details>
 
 
-Information Transmission in Credence Goods Markets<br>
-with Haoran Lei
-<details>
-  <summary>Abstract</summary>
-  <p>A customer has a problem but is uncertain about the problem type. An expert seller, after privately observing the problem type, sends a costless, unverifiable message to the customer. Then the customer self-selects her most desired treatment. Utilizing the quasiconcave envelope approach (Lipnowski and Ravid, 2020), we characterize expert’s profits in the expert-preferred equilibria. We also provide a recipe for finding an expert-preferred equilibrium in a general setup. We discuss the effects of market segmentations and customer heterogeneities. </p>
-</details>
+
 
 
 Verifiability and Fraud in a Dynamic Credence Goods Market<br>
