@@ -65,7 +65,7 @@ with Haoran Lei
 
 [paper-veto]: https://doi.org/10.48550/arXiv.2208.14829
 
-[Information Transmission in Credence Goods Markets][paper-cg]
+[Information Transmission in Monopolistic Credence Goods Markets][paper-cg]
 <br>
 with Haoran Lei
 <details>
@@ -98,8 +98,6 @@ with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang
   <summary>Abstract</summary>
   <p>We study the marriage and remarriage market in a repeated-game framework with potentially alternating partners. We show that compared with a label-less society, introducing marital labels by a credible institution can i) identify the innocent bachelor(ette)s, and ii) effectively replace inefficient trust-building phase by efficient transfer punishment, therefore achieving welfare improvement. With the presence of marital labels, the socially optimal matching protocol is to arrange as many bachelor-divorced marriages as possible. We also characterize equilibrium behavior for a decentralized society where marital status is either observable or unobservable at dating stage and derive the conditions under which different institution outperforms others.</p>
 </details>
-
-
 
 
 
