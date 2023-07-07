@@ -45,14 +45,11 @@ repeated interactions.</p>
 
 
 
-[Cognition and Product Customization](http://ssrn.com/abstract=4171048)<br>
+[Consumer Learning in Digital Product Markets](http://ssrn.com/abstract=4171048)<br>
 with Zhengqing Gui
 <details>
   <summary>Abstract</summary>
-  <p>We call a product <em>customizable</em> if some of its attributes can be adjusted by buyers after purchase.
-In this paper, we study a market in which the seller(s) exerts cognitive efforts to find the optimal product design, and retains the option to make the product customizable for buyers to adjust ex-post.
-We fully characterize pure-strategy equilibria for different market structures and show that mild competition fosters seller cognition, increases buyer surplus, and improves social welfare, while excessive competition can be harmful to buyers.
-Among other extensions, we also find that government subsidies should target sellers with more effective cognitive technologies.</p>
+  <p>Many digital products possess a crucial attribute of flexibility, which enables consumers to learn and modify the designs after purchase. In this paper, we investigate a digital product market where firms invest in research and development (R&D) to develop innovative designs, and if unsuccessful, trade-off between offering basic and flexible designs. In a market characterized by imperfect competition, we show that even though firms are identical ex-ante, there always exists an asymmetric equilibrium in which firms offer products with different levels of flexibility ex-post. Furthermore, in such an asymmetric equilibrium, only one firm invests in R&D. When this firm's investment fails, it offers a flexible design, which subsequently leads to consumer learning. The firm's R&D costs and consumers' learning costs are substitutes. Our results are robust to markets with horizontal differentiation, adjustment costs, and multi-product firms. Among other extensions, we examine the effect of government subsidies and recommend directing such subsidies towards firms with more effective innovation technologies.</p>
 </details>
 
 
@@ -70,7 +67,7 @@ with Haoran Lei
 with Haoran Lei
 <details>
   <summary>Abstract</summary>
-  <p>We study a general credence goods model with N problem types and N treatments. Communication between the expert seller and the client is modeled as cheap talk. We find that the expert's equilibrium payoffs admit a geometric characterization, described by the quasiconcave envelope of his belief-based profits function under discriminatory pricing. We establish the existence of client-worst equilibria, apply the geometric characterization to previous research on credence goods, and provide a necessary and sufficient condition for when communication benefits the expert. For the binary case, we solve for all equilibria and analyze their welfare properties. </p>
+  <p>We study a general credence goods model with N problem types and N treatments. The expert seller and the client communicate through cheap talk. We find that the expert’s equilibrium payoffs can be characterized geometri- cally as the quasiconcave envelope of his belief-based profits function under discriminatory pricing. We establish the existence of client-worst equilibria, apply the geometric characterization to previous research on credence goods, and provide a necessary and sufficient condition for when communication ben- efits the expert. For the binary case, we solve for all equilibria and characterize the client’s possible welfare among all equilibria. </p>
 </details>
 
 [paper-cg]: https://doi.org/10.48550/arXiv.2303.13295
