@@ -4,8 +4,9 @@ title: CV
 
 # Curriculum Vitae
 
-Past Positions:
+Position:
 
+- Assistant Professor, Ningbo University, 2023-present 
 - Visiting Assistant Professor, University of Hong Kong, 2023.2-2023.8
 - Assistant Professor of Economics, Wuhan University, 2019-2022
 

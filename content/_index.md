@@ -5,6 +5,8 @@ title: Home
 [<img src="image/por-min.jpg" style="max-width:35%;min-width:180px;float:right;" alt="Xiaoxiao's portrait" />](image/por.jpg)
 
 Xiaoxiao HU <br>
+Department of Economics <br>
+Ningbo University <br>
 [[Curriculum Vitae](/pdf/cv-hu.pdf)]
 
 ## Contact
