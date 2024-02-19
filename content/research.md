@@ -8,7 +8,7 @@ title: Research
 
 [Using Customer Service to Build Clients’ Trust][jie]<br> 
 with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng<br> 
-*Journal of Industrial Economics*, Vol. 68, March 2020.<br>
+**Journal of Industrial Economics**, Vol. 68, March 2020.<br>
 <details>
   <summary>Abstract</summary>
   <p>It is well known in the credence-good literature that in an expert-client relationship, under the Liability assumptions, clients have to reject the expert’s serious-treatment recommendations with a positive probability to ensure that the expert honestly recommends treatments. Inefficiency arises because some socially efficient treatments are not provided. We show that the expert can enhance clients’ trust, or acceptance rate of the serious treatment, by providing intrinsically socially inefficient customer service upon recommending the serious treatment. Enhanced clients’ trust leads to higher efficiency and higher profit for the expert. However, trust cannot be enhanced by providing customer service with different timing.</p>
@@ -24,7 +24,7 @@ with Yuk-fai Fong, Ting Liu and Xiaoxuan Meng<br>
 ## Unpublished
 
 [The Optimality of (Stochastic) Veto Delegation][paper-veto]<br>
-with Haoran Lei. Revise and Resubmit, *GEB*
+with Haoran Lei. **Revise and Resubmit, GEB**
 <details>
   <summary>Abstract</summary>
   <p>We analyze the optimal delegation problem between a principal and an agent, assuming that the latter has state-independent preferences. Among all incentive-compatible direct mechanisms, the veto mechanisms -- in which the principal commits to mixing between the status quo option and another state-dependent option -- yield the highest expected payoffs for the principal. In the optimal veto mechanism, the principal uses veto (i.e., choosing the status quo option) only when the state is above some threshold, and both the veto probability and the state-dependent option increase as the state gets more extreme. Our model captures the aspect of many real-world scenarios that the agent only cares about the principal's final decision, and the result provides grounds for the veto delegation pervasive in various organizations.</p>
@@ -53,6 +53,12 @@ with Haoran Lei
 
 [paper-credibility]: https://doi.org/10.48550/arXiv.2310.09544
 
+Voluntarily Separable Game With In-relationship Search<br> 
+with Yuk-fai Fong. **Revise and Resubmit, GEB**
+<details><summary>Abstract</summary>
+  <p>We consider a large society where players can search for a match at a cost. The matched pairs play the repeated prisoners’ dilemma game subject to voluntary separation.  Moreover, players can search for an alternative partner while in a relationship. We find that when the search cost is moderate, the option to perform in-relationship search,  while not being exercised on the equilibrium path, promotes cooperation and makes the relationship long-lasting.</p>
+</details>
+
 [Principal-induced Stubbornness in Experts][stubborn]<br>
 with Yuk-fai Fong, Xiaoxuan Meng and Kirill Novoselov<br>
 [[Online Appendix][online]]<br>
@@ -72,6 +78,12 @@ repeated interactions.</p>
 [stubborn]: /pdf/stubborn-static-202208.pdf
 [online]:/pdf/stubborn-online-appendix.pdf
 
+Label the Divorced: A Repeated-Game Analysis on (Re)Marriage Market With Community Enforcement<br>
+with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang
+<details>
+  <summary>Abstract</summary>
+  <p>We study the marriage and remarriage market in a repeated-game framework with potentially alternating partners. We show that compared with a label-less society, introducing marital labels by a credible institution can i) identify the innocent bachelor(ette)s, and ii) effectively replace inefficient trust-building phase by efficient transfer punishment, therefore achieving welfare improvement. With the presence of marital labels, the socially optimal matching protocol is to arrange as many bachelor-divorced marriages as possible. We also characterize equilibrium behavior for a decentralized society where marital status is either observable or unobservable at dating stage and derive the conditions under which different institution outperforms others.</p>
+</details>
 
 [Consumer Learning in Digital Product Markets](http://ssrn.com/abstract=4171048)<br>
 with Zhengqing Gui
@@ -85,19 +97,6 @@ with Zhengqing Gui
 <details>
   <summary>Abstract</summary>
   <p>We study a bilateral trade environment in which a seller exerts cognitive efforts to identify the optimal product design for a buyer. Should the seller fail to discover the innovative design, he has the option to induce additional cognition from the buyer by making the product flexible at an additional cost. We show that sequential cognition is more likely to occur in the decentralized equilibrium than in the first-best case. Furthermore, the seller always under-provides cognition, while the buyer may incur excessive cognitive costs in equilibrium. In an extended model, we find that the seller may further decrease cognitive efforts when facing competition.</p>
-</details>
-
-Voluntarily Separable Game With In-relationship Search<br> 
-with Yuk-fai Fong 
-<details><summary>Abstract</summary>
-  <p>We consider a large society where players can search for a match at a cost. The matched pairs play the repeated prisoners’ dilemma game subject to voluntary separation.  Moreover, players can search for an alternative partner while in a relationship. We find that when the search cost is moderate, the option to perform in-relationship search,  while not being exercised on the equilibrium path, promotes cooperation and makes the relationship long-lasting.</p>
-</details>
-
-Label the Divorced: A Repeated-Game Analysis on (Re)Marriage Market With Community Enforcement<br>
-with Yuk-fai Fong, Xiaoxuan Meng and Yimeng Zhang
-<details>
-  <summary>Abstract</summary>
-  <p>We study the marriage and remarriage market in a repeated-game framework with potentially alternating partners. We show that compared with a label-less society, introducing marital labels by a credible institution can i) identify the innocent bachelor(ette)s, and ii) effectively replace inefficient trust-building phase by efficient transfer punishment, therefore achieving welfare improvement. With the presence of marital labels, the socially optimal matching protocol is to arrange as many bachelor-divorced marriages as possible. We also characterize equilibrium behavior for a decentralized society where marital status is either observable or unobservable at dating stage and derive the conditions under which different institution outperforms others.</p>
 </details>
 
 Verifiability and Fraud in a Dynamic Credence Goods Market<br>
