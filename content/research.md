@@ -37,7 +37,7 @@ with Haoran Lei. **Revise and Resubmit, GEB**
 with Haoran Lei
 <details>
   <summary>Abstract</summary>
-  <p>We study a general credence goods model with N problem types and N treatments. The expert seller and the client communicate through cheap talk. We find that the expert’s equilibrium payoffs can be characterized geometri- cally as the quasiconcave envelope of his belief-based profits function under discriminatory pricing. We establish the existence of client-worst equilibria, apply the geometric characterization to previous research on credence goods, and provide a necessary and sufficient condition for when communication ben- efits the expert. For the binary case, we solve for all equilibria and characterize the client’s possible welfare among all equilibria. </p>
+  <p>We study a general credence goods model with N problem types and N treatments. The expert seller and the client communicate through cheap talk. We find that the expert’s equilibrium payoffs can be characterized geometrically as the quasiconcave envelope of his belief-based profits function under discriminatory pricing. We establish the existence of client-worst equilibria, apply the geometric characterization to previous research on credence goods, and provide a necessary and sufficient condition for when communication benefits the expert. For the binary case, we solve for all equilibria and characterize the client’s possible welfare among all equilibria. </p>
 </details>
 
 [paper-cg]: https://doi.org/10.48550/arXiv.2303.13295
