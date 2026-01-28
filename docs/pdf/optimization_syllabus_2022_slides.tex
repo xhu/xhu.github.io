@@ -1,0 +1,168 @@
+\documentclass{beamer}
+%
+% Choose how your presentation looks.
+%
+% For more themes, color themes and font themes, see:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+%
+\mode<presentation>
+{
+	\usetheme{Boadilla}      % or try Darmstadt, Madrid, Warsaw, ...
+	\usecolortheme{lily} % or try albatross, beaver, crane, ...
+	\usefonttheme{serif}  % or try serif, structurebold, ...
+	\setbeamertemplate{caption}[numbered]
+} 
+
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multimedia}
+\usepackage{mathpazo}
+\usepackage{multirow}
+\usepackage{amsthm,sgame}
+\usepackage{color} 
+\usepackage{hyperref}
+\usepackage[UTF8]{ctex}
+
+
+%\setbeamercolor{block title}{use=alerted text,fg=white,bg=alerted text.fg!75!black}
+%\setbeamercolor{block body}{parent=normal text,use=block title alerted,bg=block title alerted.bg!10!bg}
+%\setbeamercolor{local structure}{fg=gray}
+
+\setbeamercolor{block title}{use=structure,fg=structure.fg,bg=structure.fg!20!bg}
+\setbeamercolor{block body}{parent=normal text,use=block title,bg=block title.bg!50!bg}
+
+\usepackage{tikz,xcolor}
+\usetikzlibrary{automata, positioning}
+\usetikzlibrary{fit} % for drawing the rectangular
+\usetikzlibrary{decorations.pathreplacing}
+
+
+\definecolor{dark-blue}{rgb}{0,0,0.5}
+\hypersetup{colorlinks,linkcolor=dark-blue}
+%\usepackage[colorlinks,linkcolor=dark-blue,pagebackref=false]
+\addtobeamertemplate{footline}{\hypersetup{allcolors=.}}{}
+
+%backup slides
+\newcommand{\backupbegin}{
+	\newcounter{framenumberappendix}
+	\setcounter{framenumberappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+	\addtocounter{framenumberappendix}{-\value{framenumber}}
+	\addtocounter{framenumber}{\value{framenumberappendix}} 
+}
+	
+%% footnote without marker
+\newcommand\blfootnote[1]{%
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
+}	
+	
+
+\title[Optimization]{\large 动态优化 \\ Dynamic Optimization}
+\author[Xiaoxiao Hu]{Xiaoxiao Hu \\ \smallskip \footnotesize Wuhan University}
+\date[Feb. 15, 2022]{February 15, 2022}
+\begin{document}
+
+\begin{frame}
+ \titlepage
+\end{frame}
+ 
+
+% Uncomment these lines for an automatically generated outline.
+%\begin{frame}{Outline}
+%  \tableofcontents
+%\end{frame}
+
+
+\begin{frame}{Instructor}
+\begin{itemize}
+	\item Instructor: Xiaoxiao Hu (胡枭骁)
+	\item How to reach me?
+	\begin{itemize}
+		\item In class
+		\item Email: \href{mailto:sherryecon@qq.com}{sherryecon@qq.com} 
+		\item Office: 经管院 C151 (by appointment)
+	\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{TA}
+	\begin{itemize}
+		\item TA: Yiqing Zhang (张一清)
+		\item She will help answer your questions, including but not limited to questions on assignments.
+		\item How to reach her?
+	\begin{itemize}
+		\item QQ
+	\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Course Logistics}
+	\begin{itemize}
+		\item Class Room: 枫 - 210
+		\item Class Hours: Tuesday 14:05 - 16:30 (6 - 8节)
+		\item Duration: February 15 - May 31 (Week 1 - 16)		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Course Description}
+\begin{itemize}
+	\item Undergraduate Course
+	\item Foundation knowledge in dynamic optimization 
+	\item Topics include Lagrange's Method, Concave Programming, Uncertainty, Dynamic Programming, etc.
+	\item Your background?
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Course Materials}
+\begin{columns}
+	\begin{column}{0.7\textwidth}
+		\begin{itemize}
+			\item Textbook: Avinash K. Dixit, Optimization in Economic Theory. Oxford University Press, 1990.		
+			\item Course Website: \url{https://xhu.github.io/teaching/optimization2022}
+			\item 可以不买教材，教师会在每堂课前公布相应课件。
+		\end{itemize}
+	\end{column}
+	\begin{column}{0.3\textwidth}
+		\begin{center}
+			\includegraphics[width=\textwidth]{dixit.png}      
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Assessments}
+	\begin{itemize}
+	\item Assignments: 20\%
+	\begin{itemize}
+		\item There will be 5 assignments in total.
+		\item The assignments will mainly be graded based on effort.
+	\end{itemize}
+	\item Midterm Exam: 30\% 
+			\begin{itemize}
+				\item Tentative Date: April 19 (Week 10), in-class
+			\end{itemize}	
+	\item Final Exam: 50\%
+			\begin{itemize}
+				\item Tentative Date: May 31 (Week 16), in-class
+			\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Most Important!}
+\begin{itemize}
+	\item Course Website: \url{https://xhu.github.io/teaching/optimization2022}
+	\item QQ group
+\end{itemize}
+
+
+\end{frame}
+
+\begin{frame}
+\centering Questions?
+\end{frame}
+\end{document}

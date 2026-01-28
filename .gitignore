@@ -1,0 +1,5 @@
+# Ignore everything
+static
+readme.txt
+.DS_Store
+content
